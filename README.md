@@ -1,5 +1,5 @@
 # Caracterizacion Crateres Garavito
-El repositorio contiene, los editables del documento de proyecto de tesis titulado
+El repositorio contiene, los editables del documento de proyecto de tesis titulado.
 
 
 "Caracterización de las propiedades morfológicas, ópticas y térmicas de la regolita presente en la superficie lunar
