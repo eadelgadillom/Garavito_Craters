@@ -1,0 +1,1183 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{Boquien2019}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=7f9650749425fb3c9459f98f9cd1befe}{%
+           family={{Boquien, M.}},
+           familyi={B\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=f55cc62f6916a774c30a1ba1118b6832}{%
+           family={{Burgarella, D.}},
+           familyi={B\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=429fc76e2bcb9a7bd6be906eb72b140a}{%
+           family={{Roehlly, Y.}},
+           familyi={R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=60d81efe669512859b482171785904e0}{%
+           family={{Buat, V.}},
+           familyi={B\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=75c7e2c9e4d7dfa408495c0472530dfd}{%
+           family={{Ciesla, L.}},
+           familyi={C\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=be2999bffd341b7895565b4f476d6b88}{%
+           family={{Corre, D.}},
+           familyi={C\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=c7e7baa78005179f9d44866c880806f4}{%
+           family={{Inoue, A. K.}},
+           familyi={I\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=63cf08aa3c3da8facbf4db5061332095}{%
+           family={{Salas, H.}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1788e25d4fedf7ef20bea18887569ac3}
+      \strng{fullhash}{a89135cb6b5497e22c12e35f082ceee6}
+      \strng{fullhashraw}{a89135cb6b5497e22c12e35f082ceee6}
+      \strng{bibnamehash}{1788e25d4fedf7ef20bea18887569ac3}
+      \strng{authorbibnamehash}{1788e25d4fedf7ef20bea18887569ac3}
+      \strng{authornamehash}{1788e25d4fedf7ef20bea18887569ac3}
+      \strng{authorfullhash}{a89135cb6b5497e22c12e35f082ceee6}
+      \strng{authorfullhashraw}{a89135cb6b5497e22c12e35f082ceee6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{A}
+      \field{title}{CIGALE: a python Code Investigating GALaxy Emission}
+      \field{volume}{622}
+      \field{year}{2019}
+      \field{pages}{A103}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1051/0004-6361/201834156
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1051/0004-6361/201834156
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1051/0004-6361/201834156
+      \endverb
+    \endentry
+    \entry{Sun}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=87fcd3588c4e9c8105581bb39de6e1dd}{%
+           family={Boyle},
+           familyi={B\bibinitperiod},
+           given={Rebecca},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Scientific American, a division of Nature America, Inc.}%
+      }
+      \strng{namehash}{87fcd3588c4e9c8105581bb39de6e1dd}
+      \strng{fullhash}{87fcd3588c4e9c8105581bb39de6e1dd}
+      \strng{fullhashraw}{87fcd3588c4e9c8105581bb39de6e1dd}
+      \strng{bibnamehash}{87fcd3588c4e9c8105581bb39de6e1dd}
+      \strng{authorbibnamehash}{87fcd3588c4e9c8105581bb39de6e1dd}
+      \strng{authornamehash}{87fcd3588c4e9c8105581bb39de6e1dd}
+      \strng{authorfullhash}{87fcd3588c4e9c8105581bb39de6e1dd}
+      \strng{authorfullhashraw}{87fcd3588c4e9c8105581bb39de6e1dd}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00368733, 19467087}
+      \field{journaltitle}{Scientific American}
+      \field{number}{6}
+      \field{title}{THE SECRET LIFE OF THE SUN}
+      \field{urlday}{22}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{318}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{pp. 26\bibrangedash 33}
+      \range{pages}{-1}
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/27173502
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/27173502
+      \endverb
+    \endentry
+    \entry{DSOUZA20242297}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=fc73209a9992e05b608d5894ffa25f6f}{%
+           family={Dsouza},
+           familyi={D\bibinitperiod},
+           given={Hamish},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54e7274365d67f19abe53297dc5bfcd9}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Shashi},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8b2c05c9b32b0141ea7e052db6e7a24a}
+      \strng{fullhash}{8b2c05c9b32b0141ea7e052db6e7a24a}
+      \strng{fullhashraw}{8b2c05c9b32b0141ea7e052db6e7a24a}
+      \strng{bibnamehash}{8b2c05c9b32b0141ea7e052db6e7a24a}
+      \strng{authorbibnamehash}{8b2c05c9b32b0141ea7e052db6e7a24a}
+      \strng{authornamehash}{8b2c05c9b32b0141ea7e052db6e7a24a}
+      \strng{authorfullhash}{8b2c05c9b32b0141ea7e052db6e7a24a}
+      \strng{authorfullhashraw}{8b2c05c9b32b0141ea7e052db6e7a24a}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The peculiar illumination and insolation conditions at the poles of the Moon lead to the formation of Permanently Shadowed Regions (PSR) that act as cold traps for volatiles and are important for In Situ Resource Utilization (ISRU). However, since these regions lie in shadows of surrounding topographic highs, the ability of optical remote sensing in imaging these regions for photo reconnaissance is limited and using other modes of remote sensing becomes imperative. In this work, reflectance from optical data, backscatter from active microwave data and temperature from thermal data from the surfaces of three craters – de Gerlache, Haworth and Shoemaker – on the South Pole of the Moon, in close proximity to the Artemis III candidate landing sites, has been studied. Images from Clementine UVVIS, LRO WAC and LRO NAC have been compared with fully polarimetric data from the L-bands sensor of Chandrayaan-2 DFSAR. Further, the temperatures at the surface of the craters have been studied using data from LRO DIVINER. Since large parts of the craters under study lie in permanent shadows, Clementine UVVIS and LRO WAC could image only some parts of the rims. LRO NAC, with its longer exposure times, could image some parts within the crater however the walls of the crater and the floor near the walls remained in shadow. DFSAR was found to be useful in viewing the permanently shadowed regions of the craters. Overall, the backscatter in HH and VV (co-pol) channels was higher than the backscatter in HV and VH (cross-pol) channels. The elevated rims of the craters were clearly visible in co-pol channels and the rough texture of the ejecta of the craters had a distinct high backscatter in cross-pol channels. This fully polarimetric data can be used to map the interiors of the craters where optical data has low albedo. Analysis of the thermal data revealed that within the craters, in the regions that were in perpetual shadows, the maximum summer temperatures were less than 150 K making these regions cold traps for volatiles and possible locations of surface water–ice. The parts of craters lying in the shadows of surrounding higher features had lower maximum temperatures in summer and the parts facing them had higher maximum temperatures due to reflected insolation. Seleno Referenced Image (SRI) product from Chandrayaan-2 DFSAR was found to be a viable alternative to optical data for viewing the PSRs and for their geologic mapping.}
+      \field{issn}{0273-1177}
+      \field{journaltitle}{Advances in Space Research}
+      \field{note}{Synergistic Use of Remote Sensing Data and In-Situ Investigations to Reveal the Hidden Secrets of the Moon}
+      \field{number}{4}
+      \field{title}{Characterization of the Moon's South polar craters using optical, microwave and thermal remote sensing}
+      \field{volume}{73}
+      \field{year}{2024}
+      \field{pages}{2297\bibrangedash 2322}
+      \range{pages}{26}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.asr.2023.11.009
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0273117723008955
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0273117723008955
+      \endverb
+      \keyw{Chandrayaan-2,Dual Frequency Synthetic Aperture Radar (DFSAR),Permanently Shadowed Regions (PSR),Lunar South Polar Craters,Summer Temperature of the Moon}
+    \endentry
+    \entry{galilei1610}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=98fad4f15b35cc6a0ad311bb7a254f1b}{%
+           family={Galilei},
+           familyi={G\bibinitperiod},
+           given={Galileo},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {Latin}%
+      }
+      \list{location}{1}{%
+        {Venice}%
+      }
+      \list{publisher}{1}{%
+        {Tommaso Baglioni}%
+      }
+      \strng{namehash}{98fad4f15b35cc6a0ad311bb7a254f1b}
+      \strng{fullhash}{98fad4f15b35cc6a0ad311bb7a254f1b}
+      \strng{fullhashraw}{98fad4f15b35cc6a0ad311bb7a254f1b}
+      \strng{bibnamehash}{98fad4f15b35cc6a0ad311bb7a254f1b}
+      \strng{authorbibnamehash}{98fad4f15b35cc6a0ad311bb7a254f1b}
+      \strng{authornamehash}{98fad4f15b35cc6a0ad311bb7a254f1b}
+      \strng{authorfullhash}{98fad4f15b35cc6a0ad311bb7a254f1b}
+      \strng{authorfullhashraw}{98fad4f15b35cc6a0ad311bb7a254f1b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{First edition}
+      \field{title}{Sidereus Nuncius}
+      \field{year}{1610}
+    \endentry
+    \entry{GaravitoArmero_2017}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=28504eecbdff00e6408e929450f42a43}{%
+           family={Garavito\bibnamedelima Armero},
+           familyi={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Julio},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{28504eecbdff00e6408e929450f42a43}
+      \strng{fullhash}{28504eecbdff00e6408e929450f42a43}
+      \strng{fullhashraw}{28504eecbdff00e6408e929450f42a43}
+      \strng{bibnamehash}{28504eecbdff00e6408e929450f42a43}
+      \strng{authorbibnamehash}{28504eecbdff00e6408e929450f42a43}
+      \strng{authornamehash}{28504eecbdff00e6408e929450f42a43}
+      \strng{authorfullhash}{28504eecbdff00e6408e929450f42a43}
+      \strng{authorfullhashraw}{28504eecbdff00e6408e929450f42a43}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista de la Academia Colombiana de Ciencias Exactas, Físicas y Naturales}
+      \field{month}{dic.}
+      \field{number}{Suplemento}
+      \field{title}{Fórmulas definitivas para el cálculo del movimiento de la luna por el método de Hill-Brown y con la notación usada por Henri Poincaré en el Tomo III de su curso de Mecánica Celeste}
+      \field{volume}{41}
+      \field{year}{2017}
+      \field{pages}{80\bibrangedash 91}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.18257/raccefyn.568
+      \endverb
+      \verb{urlraw}
+      \verb https://raccefyn.co/index.php/raccefyn/article/view/568
+      \endverb
+      \verb{url}
+      \verb https://raccefyn.co/index.php/raccefyn/article/view/568
+      \endverb
+    \endentry
+    \entry{graf1993lunar}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=526ae2b96dca3e9f9288809d44cc3cae}{%
+           family={Graf},
+           familyi={G\bibinitperiod},
+           given={J.C.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {NASA}%
+      }
+      \strng{namehash}{526ae2b96dca3e9f9288809d44cc3cae}
+      \strng{fullhash}{526ae2b96dca3e9f9288809d44cc3cae}
+      \strng{fullhashraw}{526ae2b96dca3e9f9288809d44cc3cae}
+      \strng{bibnamehash}{526ae2b96dca3e9f9288809d44cc3cae}
+      \strng{authorbibnamehash}{526ae2b96dca3e9f9288809d44cc3cae}
+      \strng{authornamehash}{526ae2b96dca3e9f9288809d44cc3cae}
+      \strng{authorfullhash}{526ae2b96dca3e9f9288809d44cc3cae}
+      \strng{authorfullhashraw}{526ae2b96dca3e9f9288809d44cc3cae}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{NASA Reference Publication}
+      \field{title}{Lunar Soils Grain Size Catalog}
+      \field{year}{1993}
+      \verb{urlraw}
+      \verb https://books.google.com.co/books?id=U446AQAAIAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com.co/books?id=U446AQAAIAAJ
+      \endverb
+    \endentry
+    \entry{Hanslmeier2023}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=946009a650a434be97338229513a78a0}{%
+           family={Hanslmeier},
+           familyi={H\bibinitperiod},
+           given={Arnold},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{946009a650a434be97338229513a78a0}
+      \strng{fullhash}{946009a650a434be97338229513a78a0}
+      \strng{fullhashraw}{946009a650a434be97338229513a78a0}
+      \strng{bibnamehash}{946009a650a434be97338229513a78a0}
+      \strng{authorbibnamehash}{946009a650a434be97338229513a78a0}
+      \strng{authornamehash}{946009a650a434be97338229513a78a0}
+      \strng{authorfullhash}{946009a650a434be97338229513a78a0}
+      \strng{authorfullhashraw}{946009a650a434be97338229513a78a0}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this section we will cover the formation, structure as well as the evolution of stars. We will see that stars still form today, that they evolve, with the evolution depending on their mass. When the nuclear fuel supply is used up, stars reach one of three possible final stages, depending on their mass: white dwarfs, neutron stars or black holes.}
+      \field{booktitle}{Fascination Astronomy: A cutting-edge introduction for all those interested in the natural sciences}
+      \field{isbn}{978-3-662-66020-1}
+      \field{title}{Stars: Formation, Structure and Evolution}
+      \field{year}{2023}
+      \field{pages}{177\bibrangedash 210}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.1007/978-3-662-66020-1_7
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-662-66020-1_7
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-662-66020-1_7
+      \endverb
+    \endentry
+    \entry{isro2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=148a2130ad36a5c9d2a80357e5ca12db}{%
+           family={{Indian Space Research Organisation}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{148a2130ad36a5c9d2a80357e5ca12db}
+      \strng{fullhash}{148a2130ad36a5c9d2a80357e5ca12db}
+      \strng{fullhashraw}{148a2130ad36a5c9d2a80357e5ca12db}
+      \strng{bibnamehash}{148a2130ad36a5c9d2a80357e5ca12db}
+      \strng{authorbibnamehash}{148a2130ad36a5c9d2a80357e5ca12db}
+      \strng{authornamehash}{148a2130ad36a5c9d2a80357e5ca12db}
+      \strng{authorfullhash}{148a2130ad36a5c9d2a80357e5ca12db}
+      \strng{authorfullhashraw}{148a2130ad36a5c9d2a80357e5ca12db}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consultado: 2024-05-22}
+      \field{title}{Current Space Situation around Moon - Assessment}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.isro.gov.in/Current_Space_Situation_around_Moon_Assessment.html
+      \endverb
+      \verb{url}
+      \verb https://www.isro.gov.in/Current_Space_Situation_around_Moon_Assessment.html
+      \endverb
+    \endentry
+    \entry{JIA2018207}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=17f3135053d39888f1df6741f29fdd5d}{%
+           family={Jia},
+           familyi={J\bibinitperiod},
+           given={Yingzhuo},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=16822140663fc121185ce3c0f83856f9}{%
+           family={Zou},
+           familyi={Z\bibinitperiod},
+           given={Yongliao},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=484ddbabc3a5b110dfcf22875f548b7a}{%
+           family={Ping},
+           familyi={P\bibinitperiod},
+           given={Jinsong},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=73fad7c2a63b9905bab69fdedeb3becd}{%
+           family={Xue},
+           familyi={X\bibinitperiod},
+           given={Changbin},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=934a0c3e849405255facd8113ba785b3}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e035e4b9c184d5032ed91ac5bff64c0}{%
+           family={Ning},
+           familyi={N\bibinitperiod},
+           given={Yuanming},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2a01ce11fae866d65c81e2ce881fa713}
+      \strng{fullhash}{653bcb1c6547804548346e754e6c2961}
+      \strng{fullhashraw}{653bcb1c6547804548346e754e6c2961}
+      \strng{bibnamehash}{2a01ce11fae866d65c81e2ce881fa713}
+      \strng{authorbibnamehash}{2a01ce11fae866d65c81e2ce881fa713}
+      \strng{authornamehash}{2a01ce11fae866d65c81e2ce881fa713}
+      \strng{authorfullhash}{653bcb1c6547804548346e754e6c2961}
+      \strng{authorfullhashraw}{653bcb1c6547804548346e754e6c2961}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0032-0633}
+      \field{journaltitle}{Planetary and Space Science}
+      \field{note}{Lunar Reconnaissance Orbiter - Seven Years of Exploration and Discovery}
+      \field{title}{The scientific objectives and payloads of Chang'E-4 mission}
+      \field{volume}{162}
+      \field{year}{2018}
+      \field{pages}{207\bibrangedash 215}
+      \range{pages}{9}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.pss.2018.02.011
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0032063317300211
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0032063317300211
+      \endverb
+      \keyw{Lunar exploration,ChangÉ-4,Scientific objectives,Payloads}
+    \endentry
+    \entry{PhysicsandAstronomyMoon}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bd885de4555ed9a41e0d8a5f51d0b01a}{%
+           family={Kopal},
+           familyi={K\bibinitperiod},
+           given={Zdeněk},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Academic Press, New York}%
+        {London}%
+      }
+      \strng{namehash}{bd885de4555ed9a41e0d8a5f51d0b01a}
+      \strng{fullhash}{bd885de4555ed9a41e0d8a5f51d0b01a}
+      \strng{fullhashraw}{bd885de4555ed9a41e0d8a5f51d0b01a}
+      \strng{bibnamehash}{bd885de4555ed9a41e0d8a5f51d0b01a}
+      \strng{authorbibnamehash}{bd885de4555ed9a41e0d8a5f51d0b01a}
+      \strng{authornamehash}{bd885de4555ed9a41e0d8a5f51d0b01a}
+      \strng{authorfullhash}{bd885de4555ed9a41e0d8a5f51d0b01a}
+      \strng{authorfullhashraw}{bd885de4555ed9a41e0d8a5f51d0b01a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{6016985}
+      \field{series}{Department of Astronomy, University of Manchester}
+      \field{title}{Physics and Astronomy of the Moon}
+      \field{year}{1961}
+      \keyw{physics}
+    \endentry
+    \entry{P_Kotrc}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eacdcfb7db6a70335b5956c6e42fd227}{%
+           family={Kotrč},
+           familyi={K\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eacdcfb7db6a70335b5956c6e42fd227}
+      \strng{fullhash}{eacdcfb7db6a70335b5956c6e42fd227}
+      \strng{fullhashraw}{eacdcfb7db6a70335b5956c6e42fd227}
+      \strng{bibnamehash}{eacdcfb7db6a70335b5956c6e42fd227}
+      \strng{authorbibnamehash}{eacdcfb7db6a70335b5956c6e42fd227}
+      \strng{authornamehash}{eacdcfb7db6a70335b5956c6e42fd227}
+      \strng{authorfullhash}{eacdcfb7db6a70335b5956c6e42fd227}
+      \strng{authorfullhashraw}{eacdcfb7db6a70335b5956c6e42fd227}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{EARTH SYSTEM: HISTORY AND NATURAL VARIABILITY}
+      \field{title}{HISTORY OF THE SUN}
+      \keyw{active region,chromosphere,convective zone,corona,coronal mass ejection,flare,irradiance,luminosity,magnetic field,main sequence star,nuclear fusion,photosphere,primordial globule,prominence,protosun,solar cycle,solar interior,solar wind}
+    \endentry
+    \entry{LESLIE2019598}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=326da923c1558559aeb45237f33a217a}{%
+           family={Leslie},
+           familyi={L\bibinitperiod},
+           given={Mitch},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{326da923c1558559aeb45237f33a217a}
+      \strng{fullhash}{326da923c1558559aeb45237f33a217a}
+      \strng{fullhashraw}{326da923c1558559aeb45237f33a217a}
+      \strng{bibnamehash}{326da923c1558559aeb45237f33a217a}
+      \strng{authorbibnamehash}{326da923c1558559aeb45237f33a217a}
+      \strng{authornamehash}{326da923c1558559aeb45237f33a217a}
+      \strng{authorfullhash}{326da923c1558559aeb45237f33a217a}
+      \strng{authorfullhashraw}{326da923c1558559aeb45237f33a217a}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2095-8099}
+      \field{journaltitle}{Engineering}
+      \field{number}{4}
+      \field{title}{A Chinese Lander Explores the Far Side of the Moon}
+      \field{volume}{5}
+      \field{year}{2019}
+      \field{pages}{598\bibrangedash 599}
+      \range{pages}{2}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.eng.2019.07.006
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2095809919307830
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2095809919307830
+      \endverb
+    \endentry
+    \entry{levin2003origin}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2243355af43376c77a671b388e9a30ef}{%
+           family={Levin},
+           familyi={L\bibinitperiod},
+           given={B.Y.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University Press of the Pacific}%
+      }
+      \strng{namehash}{2243355af43376c77a671b388e9a30ef}
+      \strng{fullhash}{2243355af43376c77a671b388e9a30ef}
+      \strng{fullhashraw}{2243355af43376c77a671b388e9a30ef}
+      \strng{bibnamehash}{2243355af43376c77a671b388e9a30ef}
+      \strng{authorbibnamehash}{2243355af43376c77a671b388e9a30ef}
+      \strng{authornamehash}{2243355af43376c77a671b388e9a30ef}
+      \strng{authorfullhash}{2243355af43376c77a671b388e9a30ef}
+      \strng{authorfullhashraw}{2243355af43376c77a671b388e9a30ef}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781410205650}
+      \field{title}{Origin of the Earth and Planets}
+      \field{year}{1956}
+      \verb{urlraw}
+      \verb https://books.google.com.co/books?id=E8VLPQAACAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com.co/books?id=E8VLPQAACAAJ
+      \endverb
+    \endentry
+    \entry{CarrascoLicea2021}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=84037106b77c6e11fa22a9b922860c9d}{%
+           family={Licea},
+           familyi={L\bibinitperiod},
+           given={Esperanza\bibnamedelima Carrasco},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dee61d0585aeaefc03babe20e19b9fb1}{%
+           family={Alonso},
+           familyi={A\bibinitperiod},
+           given={Alberto\bibnamedelima Carramiñana},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Madrid}%
+      }
+      \list{publisher}{1}{%
+        {Fondo de Cultura Económica de España}%
+      }
+      \strng{namehash}{b11fd8a9f6c552296d0c8febba4350fe}
+      \strng{fullhash}{b11fd8a9f6c552296d0c8febba4350fe}
+      \strng{fullhashraw}{b11fd8a9f6c552296d0c8febba4350fe}
+      \strng{bibnamehash}{b11fd8a9f6c552296d0c8febba4350fe}
+      \strng{authorbibnamehash}{b11fd8a9f6c552296d0c8febba4350fe}
+      \strng{authornamehash}{b11fd8a9f6c552296d0c8febba4350fe}
+      \strng{authorfullhash}{b11fd8a9f6c552296d0c8febba4350fe}
+      \strng{authorfullhashraw}{b11fd8a9f6c552296d0c8febba4350fe}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9786071662989}
+      \field{note}{Casalini id: 5420211}
+      \field{title}{Del Sol a los confines del Sistema solar}
+      \field{year}{2021}
+      \field{pages}{102}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb http://digital.casalini.it/9786071662989
+      \endverb
+      \verb{url}
+      \verb http://digital.casalini.it/9786071662989
+      \endverb
+    \endentry
+    \entry{TheFormationandEvolutionoftheSolarSystem}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f2f24dd5423fc0c02372b5d935c20602}{%
+           family={Marov},
+           familyi={M\bibinitperiod},
+           given={Mikhail},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{f2f24dd5423fc0c02372b5d935c20602}
+      \strng{fullhash}{f2f24dd5423fc0c02372b5d935c20602}
+      \strng{fullhashraw}{f2f24dd5423fc0c02372b5d935c20602}
+      \strng{bibnamehash}{f2f24dd5423fc0c02372b5d935c20602}
+      \strng{authorbibnamehash}{f2f24dd5423fc0c02372b5d935c20602}
+      \strng{authornamehash}{f2f24dd5423fc0c02372b5d935c20602}
+      \strng{authorfullhash}{f2f24dd5423fc0c02372b5d935c20602}
+      \strng{authorfullhashraw}{f2f24dd5423fc0c02372b5d935c20602}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{05}
+      \field{title}{The Formation and Evolution of the Solar System}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1093/acrefore/9780190647926.013.2
+      \endverb
+      \verb{urlraw}
+      \verb https://oxfordre.com/planetaryscience/view/10.1093/acrefore/9780190647926.001.0001/acrefore-9780190647926-e-2
+      \endverb
+      \verb{url}
+      \verb https://oxfordre.com/planetaryscience/view/10.1093/acrefore/9780190647926.001.0001/acrefore-9780190647926-e-2
+      \endverb
+    \endentry
+    \entry{nationalgeographic2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7547ab759bf7dadae7aa635f06cfe58e}{%
+           family={{National Geographic}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{7547ab759bf7dadae7aa635f06cfe58e}
+      \strng{fullhash}{7547ab759bf7dadae7aa635f06cfe58e}
+      \strng{fullhashraw}{7547ab759bf7dadae7aa635f06cfe58e}
+      \strng{bibnamehash}{7547ab759bf7dadae7aa635f06cfe58e}
+      \strng{authorbibnamehash}{7547ab759bf7dadae7aa635f06cfe58e}
+      \strng{authornamehash}{7547ab759bf7dadae7aa635f06cfe58e}
+      \strng{authorfullhash}{7547ab759bf7dadae7aa635f06cfe58e}
+      \strng{authorfullhashraw}{7547ab759bf7dadae7aa635f06cfe58e}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2024-05-24}
+      \field{title}{Carrera espacial: paso a paso}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.nationalgeographic.com.es/llegada-del-hombre-a-la-luna/carrera-espacial-paso-a-paso_14369
+      \endverb
+      \verb{url}
+      \verb https://www.nationalgeographic.com.es/llegada-del-hombre-a-la-luna/carrera-espacial-paso-a-paso_14369
+      \endverb
+    \endentry
+    \entry{NickStrobel}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=15b2d750332a66084f77abf47a39f2dd}{%
+           family={{Nick Strobel}},
+           familyi={N\bibinitperiod},
+           given={{Pennsylvania State University}},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Pennsylvania State University}%
+      }
+      \strng{namehash}{15b2d750332a66084f77abf47a39f2dd}
+      \strng{fullhash}{15b2d750332a66084f77abf47a39f2dd}
+      \strng{fullhashraw}{15b2d750332a66084f77abf47a39f2dd}
+      \strng{bibnamehash}{15b2d750332a66084f77abf47a39f2dd}
+      \strng{authorbibnamehash}{15b2d750332a66084f77abf47a39f2dd}
+      \strng{authornamehash}{15b2d750332a66084f77abf47a39f2dd}
+      \strng{authorfullhash}{15b2d750332a66084f77abf47a39f2dd}
+      \strng{authorfullhashraw}{15b2d750332a66084f77abf47a39f2dd}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consultado: 2024-05-23}
+      \field{title}{The Transition to the Red Giant Phase for Sun-like stars}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.e-education.psu.edu/astro801/book/export/html/1824
+      \endverb
+      \verb{url}
+      \verb https://www.e-education.psu.edu/astro801/book/export/html/1824
+      \endverb
+    \endentry
+    \entry{Razmi_2005}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b8c047a3ca7f5f4d8bcaa6171f151749}{%
+           family={Razmi},
+           familyi={R\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b8c047a3ca7f5f4d8bcaa6171f151749}
+      \strng{fullhash}{b8c047a3ca7f5f4d8bcaa6171f151749}
+      \strng{fullhashraw}{b8c047a3ca7f5f4d8bcaa6171f151749}
+      \strng{bibnamehash}{b8c047a3ca7f5f4d8bcaa6171f151749}
+      \strng{authorbibnamehash}{b8c047a3ca7f5f4d8bcaa6171f151749}
+      \strng{authornamehash}{b8c047a3ca7f5f4d8bcaa6171f151749}
+      \strng{authorfullhash}{b8c047a3ca7f5f4d8bcaa6171f151749}
+      \strng{authorfullhashraw}{b8c047a3ca7f5f4d8bcaa6171f151749}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Here, first, the static formulation of tidal forces with completely spherical symmetry is reviewed (a differential calculus-based method is additionally introduced for readers with more familiarity with/interest in mathematical tools). Then, the result is generalized to the tidal force of the Moon acting on the Earth by considering the rotational dynamics and the (real) oblate spheroidal shape of the Earth.}
+      \field{journaltitle}{European Journal of Physics}
+      \field{month}{7}
+      \field{number}{5}
+      \field{title}{On the tidal force of the Moon on the Earth}
+      \field{volume}{26}
+      \field{year}{2005}
+      \field{pages}{927}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/0143-0807/26/5/024
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.doi.org/10.1088/0143-0807/26/5/024
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.1088/0143-0807/26/5/024
+      \endverb
+    \endentry
+    \entry{rybicki1991radiative}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=43f534fad42f3f822321489ee9159a52}{%
+           family={Rybicki},
+           familyi={R\bibinitperiod},
+           given={G.B.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e3f843a4a00995465e37d4798fdb983}{%
+           family={Lightman},
+           familyi={L\bibinitperiod},
+           given={A.P.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{da56a742a556777b8d70184ec43b939c}
+      \strng{fullhash}{da56a742a556777b8d70184ec43b939c}
+      \strng{fullhashraw}{da56a742a556777b8d70184ec43b939c}
+      \strng{bibnamehash}{da56a742a556777b8d70184ec43b939c}
+      \strng{authorbibnamehash}{da56a742a556777b8d70184ec43b939c}
+      \strng{authornamehash}{da56a742a556777b8d70184ec43b939c}
+      \strng{authorfullhash}{da56a742a556777b8d70184ec43b939c}
+      \strng{authorfullhashraw}{da56a742a556777b8d70184ec43b939c}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780471827597}
+      \field{series}{A Wiley-Interscience publication}
+      \field{title}{Radiative Processes in Astrophysics}
+      \field{year}{1991}
+      \verb{urlraw}
+      \verb https://books.google.com.co/books?id=GWWDDwAAQBAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com.co/books?id=GWWDDwAAQBAJ
+      \endverb
+    \endentry
+    \entry{annurev:galacticwinds}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=de1603b0c3188dbf3707f75a01ad0a0b}{%
+           family={Veilleux},
+           familyi={V\bibinitperiod},
+           given={Sylvain},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a519ef161eaf7fe212b1e239d95120f2}{%
+           family={Cecil},
+           familyi={C\bibinitperiod},
+           given={Gerald},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=369240b574bf463a3f06636c4bc49772}{%
+           family={Bland-Hawthorn},
+           familyi={B\bibinithyphendelim H\bibinitperiod},
+           given={Joss},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Annual Reviews}%
+      }
+      \strng{namehash}{325cb9f3b908c67540924c2da9d06570}
+      \strng{fullhash}{325cb9f3b908c67540924c2da9d06570}
+      \strng{fullhashraw}{325cb9f3b908c67540924c2da9d06570}
+      \strng{bibnamehash}{325cb9f3b908c67540924c2da9d06570}
+      \strng{authorbibnamehash}{325cb9f3b908c67540924c2da9d06570}
+      \strng{authornamehash}{325cb9f3b908c67540924c2da9d06570}
+      \strng{authorfullhash}{325cb9f3b908c67540924c2da9d06570}
+      \strng{authorfullhashraw}{325cb9f3b908c67540924c2da9d06570}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{▪ Abstract Galactic winds are the primary mechanism by which energy and metals are recycled in galaxies and are deposited into the intergalactic medium. New observations are revealing the ubiquity of this process, particularly at high redshift. We describe the physics behind these winds, discuss the observational evidence for them in nearby star-forming and active galaxies and in the high-redshift universe, and consider the implications of energetic winds for the formation and evolution of galaxies and the intergalactic medium. To inspire future research, we conclude with a set of observational and theoretical challenges.}
+      \field{issn}{1545-4282}
+      \field{journaltitle}{Annual Review of Astronomy and Astrophysics}
+      \field{number}{Volume 43, 2005}
+      \field{title}{Galactic Winds}
+      \field{type}{Journal Article}
+      \field{volume}{43}
+      \field{year}{2005}
+      \field{pages}{769\bibrangedash 826}
+      \range{pages}{58}
+      \verb{doi}
+      \verb https://doi.org/10.1146/annurev.astro.43.072103.150610
+      \endverb
+      \verb{urlraw}
+      \verb https://www.annualreviews.org/content/journals/10.1146/annurev.astro.43.072103.150610
+      \endverb
+      \verb{url}
+      \verb https://www.annualreviews.org/content/journals/10.1146/annurev.astro.43.072103.150610
+      \endverb
+      \keyw{halos}
+    \endentry
+    \entry{VERMA2022115075}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=103149b720efcb2c452ad0b44bd47482}{%
+           family={Verma},
+           familyi={V\bibinitperiod},
+           given={Prabhakar\bibnamedelima Alok},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=0a611f78eb30d300a11d6908848c0b01}{%
+           family={Chauhan},
+           familyi={C\bibinitperiod},
+           given={Mamta},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=aa791b78e4548c94376a76536b4b0c4a}{%
+           family={Chauhan},
+           familyi={C\bibinitperiod},
+           given={Prakash},
+           giveni={P\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{937495a289d1745eb95f8b3b8c0757c3}
+      \strng{fullhash}{937495a289d1745eb95f8b3b8c0757c3}
+      \strng{fullhashraw}{937495a289d1745eb95f8b3b8c0757c3}
+      \strng{bibnamehash}{937495a289d1745eb95f8b3b8c0757c3}
+      \strng{authorbibnamehash}{937495a289d1745eb95f8b3b8c0757c3}
+      \strng{authornamehash}{937495a289d1745eb95f8b3b8c0757c3}
+      \strng{authorfullhash}{937495a289d1745eb95f8b3b8c0757c3}
+      \strng{authorfullhashraw}{937495a289d1745eb95f8b3b8c0757c3}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents the methodology for correction of thermal emission from the Imaging Infrared Spectrometer sensor data onboard the recently launched Chandrayaan-2 spacecraft. The sensor provides extended spectral range of 0.8–5 micron and a spectral resolution of ~20 nm. The Imaging Infrared Spectrometer measures the reflected and emitted radiation of the Moon at a spatial resolution of ~80 m and has an advantage over the previous sensors in complete and clear characterization of OH/H2O feature. The thermal removal method follows calculation of the mean surface temperature at a fixed emissivity to obtain thermally corrected spectra. Further, the data have been utilized to generate temperature map of the Moon from the available data strips. The data after thermal correction can be further utilized to understand and derive the radiative and thermophysical properties of regolith and volatiles on the Moon.}
+      \field{issn}{0019-1035}
+      \field{journaltitle}{Icarus}
+      \field{title}{Lunar surface temperature estimation and thermal emission correction using Chandrayaan-2 imaging infrared spectrometer data for H2O \& OH detection using 3 micron hydration feature}
+      \field{volume}{383}
+      \field{year}{2022}
+      \field{pages}{115075}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.icarus.2022.115075
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0019103522001853
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0019103522001853
+      \endverb
+    \endentry
+    \entry{Whittet2022DustIT}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4c88e8957eddc6e4f2b25d7082c235f6}{%
+           family={Whittet},
+           familyi={W\bibinitperiod},
+           given={D.\bibnamedelimi C.\bibnamedelimi B.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4c88e8957eddc6e4f2b25d7082c235f6}
+      \strng{fullhash}{4c88e8957eddc6e4f2b25d7082c235f6}
+      \strng{fullhashraw}{4c88e8957eddc6e4f2b25d7082c235f6}
+      \strng{bibnamehash}{4c88e8957eddc6e4f2b25d7082c235f6}
+      \strng{authorbibnamehash}{4c88e8957eddc6e4f2b25d7082c235f6}
+      \strng{authornamehash}{4c88e8957eddc6e4f2b25d7082c235f6}
+      \strng{authorfullhash}{4c88e8957eddc6e4f2b25d7082c235f6}
+      \strng{authorfullhashraw}{4c88e8957eddc6e4f2b25d7082c235f6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Dust in the Galactic Environment (Third Edition)}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://api.semanticscholar.org/CorpusID:251685183
+      \endverb
+      \verb{url}
+      \verb https://api.semanticscholar.org/CorpusID:251685183
+      \endverb
+    \endentry
+    \entry{Zhengling2024}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=16762025cd93c38d95ceb7ca06539f9d}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Zhengling},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=46feffc3ab66d91cb112fc2273cd2d15}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Niutao},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=728d1cb4c63f878cc77602191cfae6d3}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Ya-Qiu},
+           giveni={Y\bibinithyphendelim Q\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8a911ac9a0184d03fc0af22bc5da8ad6}
+      \strng{fullhash}{8a911ac9a0184d03fc0af22bc5da8ad6}
+      \strng{fullhashraw}{8a911ac9a0184d03fc0af22bc5da8ad6}
+      \strng{bibnamehash}{8a911ac9a0184d03fc0af22bc5da8ad6}
+      \strng{authorbibnamehash}{8a911ac9a0184d03fc0af22bc5da8ad6}
+      \strng{authornamehash}{8a911ac9a0184d03fc0af22bc5da8ad6}
+      \strng{authorfullhash}{8a911ac9a0184d03fc0af22bc5da8ad6}
+      \strng{authorfullhashraw}{8a911ac9a0184d03fc0af22bc5da8ad6}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0019-1035}
+      \field{journaltitle}{Icarus}
+      \field{title}{Simulation of the temperatures in the permanently shadowed region of the Moon's south pole and data validation}
+      \field{volume}{411}
+      \field{year}{2024}
+      \field{pages}{115917}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.icarus.2023.115917
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0019103523004967
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0019103523004967
+      \endverb
+      \keyw{Moon,PSR,Temperature,Infrared,Water ice}
+    \endentry
+    \entry{ZHAO2023115766}{article}{}{}
+      \name{author}{23}{}{%
+        {{un=0,uniquepart=base,hash=774a364254521c3a85dc37ef20c4f75a}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Siyuan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=974a692aa938c47a2dd8e6263e496d23}{%
+           family={Xiao},
+           familyi={X\bibinitperiod},
+           given={Long},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d054ef347441c656883fb8ac3a3a8631}{%
+           family={Qian},
+           familyi={Q\bibinitperiod},
+           given={Yuqi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=089b9c3f64990fae6b1c4543efcc1840}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Jiawei},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7cdf7f4aa2a805a215c306a129b8943d}{%
+           family={She},
+           familyi={S\bibinitperiod},
+           given={Zhenbing},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=954a8b117e47bd74e7e7fc588d404cc1}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Qi},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ada4519f98a6b9af0e2f2a187ca84dab}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zaicong},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e4e7220a6dfb08f15d8309b80790ef5}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xinyi},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80e8f19a8bcd3cac357fa11333fd1d6b}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Kenan},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=186d0b391b9e6ff175c49a0286d0cf82}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Xiangbin},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45f61f91eed498475eb6258bbca165c2}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yixuan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3cee83f43ddf8d256f4c978f9c6130d}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Jiahuai},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3aa487d379fa7e9b8fdc800e781317ec}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Mingtan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b7b6536537cd2245647edafee3999a43}{%
+           family={Xiao},
+           familyi={X\bibinitperiod},
+           given={Qian},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=790105f726f826e13d62268b71d26abe}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Zongjun},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ffc6e98cdb5fcaae9b79cd4ce7d15efa}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=061ab90135266334ae8784dc33c5ffc8}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Jiannan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d79c0a25d1b013fc9e5226b9b6d422db}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jiang},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=733256c2452217b6cec8912fa1abf4eb}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fdd5b4f984954b54fd6dbd3fa2e42692}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Zhaochu},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18307a8c32d6571cf2aa1ce8cf46a987}{%
+           family={Zong},
+           familyi={Z\bibinitperiod},
+           given={Keqing},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d10544341ce8ddd630dfb919f63ca296}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Xiang},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=30e5ccb39daf8d9216695268e3076d3a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Changhuan},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2ed740f71acfea2a77fec31ee422ee50}
+      \strng{fullhash}{20b28d5e2301d16b994b30ff8ad7882b}
+      \strng{fullhashraw}{20b28d5e2301d16b994b30ff8ad7882b}
+      \strng{bibnamehash}{2ed740f71acfea2a77fec31ee422ee50}
+      \strng{authorbibnamehash}{2ed740f71acfea2a77fec31ee422ee50}
+      \strng{authornamehash}{2ed740f71acfea2a77fec31ee422ee50}
+      \strng{authorfullhash}{20b28d5e2301d16b994b30ff8ad7882b}
+      \strng{authorfullhashraw}{20b28d5e2301d16b994b30ff8ad7882b}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The lunar regolith layer preserves abundant information on the internal properties of the Moon as well as the space-surface interactions. By gardening and overturning through time, the regolith layer is heterogenous and soils from different depths could record the complex evolution history of the Moon. Chang'e-5 (CE-5) successfully returned scooped samples and drilled samples from the northeastern Oceanus Procellarum of the Moon. In this study, one scooped sample (0–3 cm depth, S0) and two drilled samples (~10 cm depth, S10; and ~ 65 cm depth, S65) were employed to analyze their granulometry and mineralogy by micro Raman spectroscopy. The grain size increases with depth, and the median grain size of S0, S10, and S65 are Φ5.45 (30.2 μm), Φ4.47 (45.0 μm), and Φ3.37 (96.4 μm), respectively. Their mineral types and contents are pyroxene (33.4–40.5 vol%), plagioclase (30.4–33.8 vol%), olivine (9.0–13.1 vol%), glass (6.9–10.7 vol%), FeTi oxide (6.7–7.5 vol%), cristobalite (0.2–3.8 vol%), quartz (0.4–0.9 vol%), and phosphate (0.2–0.6 vol%). The size-dependent mineral modes reveal the relationship between grain size and mineralogy. The mineral modal abundances of 3 soil samples at different depths are roughly similar to that of CE-5 basalts. Raman peak position of quartz may record a peak shock pressure of 31.4 GPa. 5–9 vol% plagioclase amorphization reflects that at least 2–9% exogenous materials in CE-5 soil samples are ejected from craters with diameters larger than 3 km located beyond 50 km from the landing site.}
+      \field{issn}{0019-1035}
+      \field{journaltitle}{Icarus}
+      \field{title}{Variations in lunar regolith properties with depth as revealed by Chang'e-5 samples}
+      \field{volume}{406}
+      \field{year}{2023}
+      \field{pages}{115766}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.icarus.2023.115766
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0019103523003433
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0019103523003433
+      \endverb
+      \keyw{Chang'e-5,Lunar soils,Granulometry,Mineralogy,Shock metamorphism}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
