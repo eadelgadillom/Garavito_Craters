@@ -7,4 +7,9 @@ en las regiones de los cráteres Garavito"
 
 Por
 Eduardo Andres Delgadillo Monsalve
+
+
 Observatorio Astronomico Nacional de Colombia
+
+
+Universidad Nacional de Colombia
