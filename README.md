@@ -1,8 +1,10 @@
 # Caracterizacion Crateres Garavito
 El repositorio contiene, los editables del documento de proyecto de tesis titulado
-CARACTERIZACIÓN DE LAS PROPIEDADES MORFOLÓGICAS, ÓPTICAS
-Y TÉRMICAS DE LA REGOLITA PRESENTE EN LA SUPERFICIE LUNAR
-EN LA REGION DE LOS CRÁTERES GARAVITO
+
+
+"Caracterización de las propiedades morfológicas, ópticas y térmicas de la regolita presente en la superficie lunar
+en las regiones de los cráteres Garavito"
+
 Por
 Eduardo Andres Delgadillo Monsalve
 Observatorio Astronomico Nacional de Colombia
