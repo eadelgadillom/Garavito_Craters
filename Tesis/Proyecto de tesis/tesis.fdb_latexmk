@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber tesis"] 1716821789.80484 "tesis.bcf" "tesis.bbl" "tesis" 1716840338.77238 0
+["biber tesis"] 1716821789.80484 "tesis.bcf" "tesis.bbl" "tesis" 1716841725.63315 0
   "ref.bib" 1716821065 19409 5640b6e051d4211ff4ba182642e2072e ""
-  "tesis.bcf" 1716840338 110477 7096373a8588980bbb397b0a930b4c46 "pdflatex"
+  "tesis.bcf" 1716841724 110477 7096373a8588980bbb397b0a930b4c46 "pdflatex"
   (generated)
   "tesis.bbl"
   "tesis.blg"
   (rewritten before read)
-["pdflatex"] 1716840329.00753 "d:/GitHub/Maestria_Astronomia/Tesis/Proyecto de tesis/tesis.tex" "tesis.pdf" "tesis" 1716840338.77337 0
+["pdflatex"] 1716841716.04987 "d:/GitHub/Caracterizacion_Crateres_Garavito/Tesis/Proyecto de tesis/tesis.tex" "tesis.pdf" "tesis" 1716841725.63435 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc" 1256929440 3486 c7eadf5dcc57b3b2d11736679f6636ba ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc" 1256929440 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
@@ -362,7 +362,7 @@
   "C:/Users/eduar/AppData/Local/MiKTeX/fonts/tfm/public/esvect/vect8.tfm" 1711870933 372 4f0047d7e99a201724968cf4743804cf ""
   "C:/Users/eduar/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1711948439 24226190 47654c9783f65d9e46e3af705a180ea4 ""
   "Settings.tex" 1716784031 4253 bd03ebda4e176203f377a4a210665a73 ""
-  "d:/GitHub/Maestria_Astronomia/Tesis/Proyecto de tesis/tesis.tex" 1716840326 49689 83be73cf6a36f4561bf395de2943db9d ""
+  "d:/GitHub/Caracterizacion_Crateres_Garavito/Tesis/Proyecto de tesis/tesis.tex" 1716840326 49689 83be73cf6a36f4561bf395de2943db9d ""
   "images/Albedo.png" 1716820906 123545 b37e10bba5b31ac662d88c792404926f ""
   "images/Azimuth_45_altitude_45.png" 1716706828 156983 9f5cdcaf557090540c2de931c78191c0 ""
   "images/Azimuth_45_altitude_5.png" 1716706845 172474 9f803ef911695928247264ecbcfa519c ""
@@ -378,14 +378,14 @@
   "images/albedo_sol_reflejo.png" 1716820034 34362 f59733d5b0f0703ef2434d28f22e8dd5 ""
   "images/diagrama_albedo.png" 1716819594 27504 f1ff7ed268ef448b100b2edb147b274a ""
   "images/waavelength.png" 1716816183 101882 727021733668670c272b12f17d90e59b ""
-  "tesis.aux" 1716840338 20214 aeef17b5e05122977c190636097d51ab "pdflatex"
+  "tesis.aux" 1716841724 20214 aeef17b5e05122977c190636097d51ab "pdflatex"
   "tesis.bbl" 1716821793 53173 39143139ea33f4aa1ca9913de9dc20a5 "biber tesis"
-  "tesis.lof" 1716840338 3763 b042daed5c4cc337be1b68e8e4004069 "pdflatex"
-  "tesis.lot" 1716840338 289 1191dacd6211c3feab195a8fa64debe1 "pdflatex"
-  "tesis.out" 1716840338 3240 6ef3c44f393d81179e0e56e9553d2561 "pdflatex"
-  "tesis.run.xml" 1716840338 2311 e4b2a098db948c89981d61265246c6c4 "pdflatex"
+  "tesis.lof" 1716841724 3763 b042daed5c4cc337be1b68e8e4004069 "pdflatex"
+  "tesis.lot" 1716841724 289 1191dacd6211c3feab195a8fa64debe1 "pdflatex"
+  "tesis.out" 1716841724 3240 6ef3c44f393d81179e0e56e9553d2561 "pdflatex"
+  "tesis.run.xml" 1716841724 2311 e4b2a098db948c89981d61265246c6c4 "pdflatex"
   "tesis.tex" 1716840326 49689 83be73cf6a36f4561bf395de2943db9d ""
-  "tesis.toc" 1716840338 1735 e6bb152f7f33d2a41ff6db7483196cc2 "pdflatex"
+  "tesis.toc" 1716841724 1735 e6bb152f7f33d2a41ff6db7483196cc2 "pdflatex"
   (generated)
   "tesis.aux"
   "tesis.bcf"
