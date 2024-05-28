@@ -1,6 +1,6 @@
-PWD d:\GitHub\Caracterizacion_Crateres_Garavito\Tesis\Proyecto de tesis
+PWD d:\GitHub\Garavito_Craters\Tesis\project document
 INPUT C:\Users\eduar\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\GitHub\Caracterizacion_Crateres_Garavito\Tesis\Proyecto de tesis\tesis.tex
+INPUT d:\GitHub\Garavito_Craters\Tesis\project document\tesis.tex
 OUTPUT tesis.log
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
@@ -673,11 +673,11 @@ OUTPUT tesis.lof
 INPUT .\tesis.lot
 INPUT .\tesis.lot
 INPUT tesis.lot
+OUTPUT tesis.lot
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmro12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\lm\lm-mathit.enc
 INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
 INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\lm\lm-mathsy.enc
-OUTPUT tesis.lot
 INPUT C:\Program Files\MiKTeX\tex\latex\lm\ts1lmr.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\lm\ts1lmr.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\lm\ts1lmr.fd
@@ -787,6 +787,13 @@ INPUT .\images\Emision_moon_example.png
 INPUT .\images\Emision_moon_example.png
 INPUT .\images\Emision_moon_example.png
 INPUT .\images\Emision_moon_example.png
+INPUT .\images\Schedule.png
+INPUT .\images\Schedule.png
+INPUT .\images\Schedule.png
+INPUT .\images\Schedule.png
+INPUT .\images\Schedule.png
+INPUT .\images\Schedule.png
+INPUT .\images\Schedule.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmri12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmcsc10.tfm
 INPUT C:\Program Files\MiKTeX\tex\latex\lm\t1lmtt.fd
