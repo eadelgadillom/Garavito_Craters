@@ -121,6 +121,88 @@
       \verb https://www.jstor.org/stable/27173502
       \endverb
     \endentry
+    \entry{byrne2008far}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=47a7ccee43b08ee63448ac5da71c8bab}{%
+           family={Byrne},
+           familyi={B\bibinitperiod},
+           given={C.J.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{47a7ccee43b08ee63448ac5da71c8bab}
+      \strng{fullhash}{47a7ccee43b08ee63448ac5da71c8bab}
+      \strng{fullhashraw}{47a7ccee43b08ee63448ac5da71c8bab}
+      \strng{bibnamehash}{47a7ccee43b08ee63448ac5da71c8bab}
+      \strng{authorbibnamehash}{47a7ccee43b08ee63448ac5da71c8bab}
+      \strng{authornamehash}{47a7ccee43b08ee63448ac5da71c8bab}
+      \strng{authorfullhash}{47a7ccee43b08ee63448ac5da71c8bab}
+      \strng{authorfullhashraw}{47a7ccee43b08ee63448ac5da71c8bab}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9789780387730}
+      \field{series}{Patrick Moore's practical astronomy series}
+      \field{title}{The Far Side of the Moon: A Photographic Guide}
+      \field{year}{2008}
+      \verb{urlraw}
+      \verb https://books.google.com.co/books?id=a_oIzwEACAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com.co/books?id=a_oIzwEACAAJ
+      \endverb
+    \endentry
+    \entry{Origin_of_the_moon}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=404d5dc58b153f6aa3a142fc1b112601}{%
+           family={Daly},
+           familyi={D\bibinitperiod},
+           given={Reginald\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Philosophical Society}%
+      }
+      \strng{namehash}{404d5dc58b153f6aa3a142fc1b112601}
+      \strng{fullhash}{404d5dc58b153f6aa3a142fc1b112601}
+      \strng{fullhashraw}{404d5dc58b153f6aa3a142fc1b112601}
+      \strng{bibnamehash}{404d5dc58b153f6aa3a142fc1b112601}
+      \strng{authorbibnamehash}{404d5dc58b153f6aa3a142fc1b112601}
+      \strng{authornamehash}{404d5dc58b153f6aa3a142fc1b112601}
+      \strng{authorfullhash}{404d5dc58b153f6aa3a142fc1b112601}
+      \strng{authorfullhashraw}{404d5dc58b153f6aa3a142fc1b112601}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0003049X}
+      \field{journaltitle}{Proceedings of the American Philosophical Society}
+      \field{number}{2}
+      \field{title}{Origin of the Moon and Its Topography}
+      \field{urlday}{28}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{90}
+      \field{year}{1946}
+      \field{urldateera}{ce}
+      \field{pages}{104\bibrangedash 119}
+      \range{pages}{16}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/3301051
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/3301051
+      \endverb
+    \endentry
     \entry{DSOUZA20242297}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=fc73209a9992e05b608d5894ffa25f6f}{%
@@ -312,6 +394,36 @@
       \endverb
       \verb{url}
       \verb https://www.isro.gov.in/Current_Space_Situation_around_Moon_Assessment.html
+      \endverb
+    \endentry
+    \entry{iau_control_networks}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=368f49338a943ee6850a53903b11176c}{%
+           family={{International Astronomical Union}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{368f49338a943ee6850a53903b11176c}
+      \strng{fullhash}{368f49338a943ee6850a53903b11176c}
+      \strng{fullhashraw}{368f49338a943ee6850a53903b11176c}
+      \strng{bibnamehash}{368f49338a943ee6850a53903b11176c}
+      \strng{authorbibnamehash}{368f49338a943ee6850a53903b11176c}
+      \strng{authornamehash}{368f49338a943ee6850a53903b11176c}
+      \strng{authorfullhash}{368f49338a943ee6850a53903b11176c}
+      \strng{authorfullhashraw}{368f49338a943ee6850a53903b11176c}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2024-05-28}
+      \field{title}{Control Networks and Coordinate Systems}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://astrogeology.usgs.gov/tools/map-a-planet-2
+      \endverb
+      \verb{url}
+      \verb https://astrogeology.usgs.gov/tools/map-a-planet-2
       \endverb
     \endentry
     \entry{JIA2018207}{article}{}{}
@@ -657,6 +769,36 @@
       \endverb
       \verb{url}
       \verb https://oxfordre.com/planetaryscience/view/10.1093/acrefore/9780190647926.001.0001/acrefore-9780190647926-e-2
+      \endverb
+    \endentry
+    \entry{lro_coordinate_system}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4059d96b08a5f13946ef726132639181}{%
+           family={{NASA Planetary Data System}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{4059d96b08a5f13946ef726132639181}
+      \strng{fullhash}{4059d96b08a5f13946ef726132639181}
+      \strng{fullhashraw}{4059d96b08a5f13946ef726132639181}
+      \strng{bibnamehash}{4059d96b08a5f13946ef726132639181}
+      \strng{authorbibnamehash}{4059d96b08a5f13946ef726132639181}
+      \strng{authornamehash}{4059d96b08a5f13946ef726132639181}
+      \strng{authorfullhash}{4059d96b08a5f13946ef726132639181}
+      \strng{authorfullhashraw}{4059d96b08a5f13946ef726132639181}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2024-05-28}
+      \field{title}{{LRO Coordinate System}}
+      \field{year}{2008}
+      \verb{urlraw}
+      \verb https://pds-imaging.jpl.nasa.gov/documentation/LRO_Coordinate_System.pdf
+      \endverb
+      \verb{url}
+      \verb https://pds-imaging.jpl.nasa.gov/documentation/LRO_Coordinate_System.pdf
       \endverb
     \endentry
     \entry{nationalgeographic2024}{misc}{}{}

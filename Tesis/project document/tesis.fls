@@ -673,11 +673,11 @@ OUTPUT tesis.lof
 INPUT .\tesis.lot
 INPUT .\tesis.lot
 INPUT tesis.lot
-OUTPUT tesis.lot
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmro12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\lm\lm-mathit.enc
 INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
 INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\lm\lm-mathsy.enc
+OUTPUT tesis.lot
 INPUT C:\Program Files\MiKTeX\tex\latex\lm\ts1lmr.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\lm\ts1lmr.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\lm\ts1lmr.fd
@@ -758,14 +758,14 @@ INPUT .\images\waavelength.png
 INPUT .\images\waavelength.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmr8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmr6.tfm
-INPUT .\images\diagrama_albedo.png
-INPUT .\images\diagrama_albedo.png
-INPUT .\images\diagrama_albedo.png
-INPUT .\images\diagrama_albedo.png
-INPUT .\images\diagrama_albedo.png
-INPUT .\images\diagrama_albedo.png
-INPUT .\images\diagrama_albedo.png
 INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\lm\lm-mathex.enc
+INPUT .\images\diagrama_albedo.png
+INPUT .\images\diagrama_albedo.png
+INPUT .\images\diagrama_albedo.png
+INPUT .\images\diagrama_albedo.png
+INPUT .\images\diagrama_albedo.png
+INPUT .\images\diagrama_albedo.png
+INPUT .\images\diagrama_albedo.png
 INPUT .\images\albedo_sol_reflejo.png
 INPUT .\images\albedo_sol_reflejo.png
 INPUT .\images\albedo_sol_reflejo.png
@@ -787,6 +787,13 @@ INPUT .\images\Emision_moon_example.png
 INPUT .\images\Emision_moon_example.png
 INPUT .\images\Emision_moon_example.png
 INPUT .\images\Emision_moon_example.png
+INPUT .\images\coord_planetocentricas.png
+INPUT .\images\coord_planetocentricas.png
+INPUT .\images\coord_planetocentricas.png
+INPUT .\images\coord_planetocentricas.png
+INPUT .\images\coord_planetocentricas.png
+INPUT .\images\coord_planetocentricas.png
+INPUT .\images\coord_planetocentricas.png
 INPUT .\images\Schedule.png
 INPUT .\images\Schedule.png
 INPUT .\images\Schedule.png
