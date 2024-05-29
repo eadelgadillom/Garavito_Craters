@@ -771,6 +771,85 @@
       \verb https://oxfordre.com/planetaryscience/view/10.1093/acrefore/9780190647926.001.0001/acrefore-9780190647926-e-2
       \endverb
     \endentry
+    \entry{McCord}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=9d41f0eb1400b11d2530656c8b19e7f5}{%
+           family={McCord},
+           familyi={M\bibinitperiod},
+           given={Thomas\bibnamedelima B.},
+           giveni={T\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c930b86064a9a190e5d9eb0543dde853}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Roger\bibnamedelima N.},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=863ec089a7c1ae93c72c0049218366bb}{%
+           family={Hawke},
+           familyi={H\bibinitperiod},
+           given={B.\bibnamedelimi Ray},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1309aa1ee2060ebef2f2bf4cedd00d49}{%
+           family={McFadden},
+           familyi={M\bibinitperiod},
+           given={Lucy\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8096c907319d59381545ad622596ccbe}{%
+           family={Owensby},
+           familyi={O\bibinitperiod},
+           given={P.\bibnamedelimi D.},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe44b2e81e536b5b40dbea45840b7c35}{%
+           family={Pieters},
+           familyi={P\bibinitperiod},
+           given={Carle\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e9dacb62c505cb94080d970ec3f70cc}{%
+           family={Adams},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6ff762fbbf417cfc029d331ea43e79e1}
+      \strng{fullhash}{452a830cc689bd6a2ee91962ff8e03fc}
+      \strng{fullhashraw}{452a830cc689bd6a2ee91962ff8e03fc}
+      \strng{bibnamehash}{6ff762fbbf417cfc029d331ea43e79e1}
+      \strng{authorbibnamehash}{6ff762fbbf417cfc029d331ea43e79e1}
+      \strng{authornamehash}{6ff762fbbf417cfc029d331ea43e79e1}
+      \strng{authorfullhash}{452a830cc689bd6a2ee91962ff8e03fc}
+      \strng{authorfullhashraw}{452a830cc689bd6a2ee91962ff8e03fc}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Geophysical Research: Solid Earth}
+      \field{number}{B11}
+      \field{title}{Moon: Near-infrared spectral reflectance, A first good look}
+      \field{volume}{86}
+      \field{year}{1981}
+      \field{pages}{10883\bibrangedash 10892}
+      \range{pages}{10}
+      \verb{doi}
+      \verb https://doi.org/10.1029/JB086iB11p10883
+      \endverb
+      \verb{eprint}
+      \verb https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/JB086iB11p10883
+      \endverb
+      \verb{urlraw}
+      \verb https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JB086iB11p10883
+      \endverb
+      \verb{url}
+      \verb https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JB086iB11p10883
+      \endverb
+    \endentry
     \entry{lro_coordinate_system}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=4059d96b08a5f13946ef726132639181}{%
@@ -799,6 +878,73 @@
       \endverb
       \verb{url}
       \verb https://pds-imaging.jpl.nasa.gov/documentation/LRO_Coordinate_System.pdf
+      \endverb
+    \endentry
+    \entry{NAsh_douglas}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=fc98c9ba6122b2d271a28c918f5a4081}{%
+           family={Nash},
+           familyi={N\bibinitperiod},
+           given={Douglas\bibnamedelima B.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d73de19daf4d46abd593c97951d7a77}{%
+           family={Salisbury},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=986eb98856a2b26ba0b69561e5863662}{%
+           family={Conel},
+           familyi={C\bibinitperiod},
+           given={James\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87a38ea796f7a8405d80beea3fee6514}{%
+           family={Lucey},
+           familyi={L\bibinitperiod},
+           given={Paul\bibnamedelima G.},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04498b23c87d359252b10ee85869be5f}{%
+           family={Christensen},
+           familyi={C\bibinitperiod},
+           given={Philip\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9fc6cb932c2018de89c853ff1a38c345}
+      \strng{fullhash}{4afcae4079a9eeb1afb8d9ff8b3e7a5c}
+      \strng{fullhashraw}{4afcae4079a9eeb1afb8d9ff8b3e7a5c}
+      \strng{bibnamehash}{9fc6cb932c2018de89c853ff1a38c345}
+      \strng{authorbibnamehash}{9fc6cb932c2018de89c853ff1a38c345}
+      \strng{authornamehash}{9fc6cb932c2018de89c853ff1a38c345}
+      \strng{authorfullhash}{4afcae4079a9eeb1afb8d9ff8b3e7a5c}
+      \strng{authorfullhashraw}{4afcae4079a9eeb1afb8d9ff8b3e7a5c}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Geophysical Research: Planets}
+      \field{number}{E12}
+      \field{title}{Evaluation of infrared emission spectroscopy for mapping the moon's surface composition from lunar orbit}
+      \field{volume}{98}
+      \field{year}{1993}
+      \field{pages}{23535\bibrangedash 23552}
+      \range{pages}{18}
+      \verb{doi}
+      \verb https://doi.org/10.1029/93JE02604
+      \endverb
+      \verb{eprint}
+      \verb https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/93JE02604
+      \endverb
+      \verb{urlraw}
+      \verb https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/93JE02604
+      \endverb
+      \verb{url}
+      \verb https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/93JE02604
       \endverb
     \endentry
     \entry{nationalgeographic2024}{misc}{}{}
@@ -914,6 +1060,59 @@
       \endverb
       \verb{url}
       \verb https://books.google.com.co/books?id=GWWDDwAAQBAJ
+      \endverb
+    \endentry
+    \entry{SALISBURY1997125}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3d73de19daf4d46abd593c97951d7a77}{%
+           family={Salisbury},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=050ea4b1861aacfbfa0d953be5ce1246}{%
+           family={Basu},
+           familyi={B\bibinitperiod},
+           given={Abhijit},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d840934352c748f67ecab0ff9b40043}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Erich\bibnamedelima M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{abfefe99ef311acdcc78e744ea2751d2}
+      \strng{fullhash}{abfefe99ef311acdcc78e744ea2751d2}
+      \strng{fullhashraw}{abfefe99ef311acdcc78e744ea2751d2}
+      \strng{bibnamehash}{abfefe99ef311acdcc78e744ea2751d2}
+      \strng{authorbibnamehash}{abfefe99ef311acdcc78e744ea2751d2}
+      \strng{authornamehash}{abfefe99ef311acdcc78e744ea2751d2}
+      \strng{authorfullhash}{abfefe99ef311acdcc78e744ea2751d2}
+      \strng{authorfullhashraw}{abfefe99ef311acdcc78e744ea2751d2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0019-1035}
+      \field{journaltitle}{Icarus}
+      \field{number}{1}
+      \field{title}{Thermal Infrared Spectra of Lunar Soils}
+      \field{volume}{130}
+      \field{year}{1997}
+      \field{pages}{125\bibrangedash 139}
+      \range{pages}{15}
+      \verb{doi}
+      \verb https://doi.org/10.1006/icar.1997.5809
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0019103597958097
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0019103597958097
       \endverb
     \endentry
     \entry{annurev:galacticwinds}{article}{}{}

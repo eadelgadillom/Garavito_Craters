@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber tesis"] 1716924781.75075 "tesis.bcf" "tesis.bbl" "tesis" 1716924799.89369 0
-  "ref.bib" 1716922612 20753 2c16004eaa3ee16f253265df4f0abf3a ""
-  "tesis.bcf" 1716924799 110985 38ce1ff76cc39d802cf03d3c32cbc77d "pdflatex"
+["biber tesis"] 1717008160.44439 "tesis.bcf" "tesis.bbl" "tesis" 1717009361.80897 0
+  "ref.bib" 1717008158 23049 a47896b8f4e6c956808c332c01929a56 ""
+  "tesis.bcf" 1717009360 111187 bc0bd728051f5c52876513afe2424625 "pdflatex"
   (generated)
   "tesis.bbl"
   "tesis.blg"
   (rewritten before read)
-["pdflatex"] 1716924792.67043 "d:/GitHub/Garavito_Craters/Tesis/project document/tesis.tex" "tesis.pdf" "tesis" 1716924799.89477 0
+["pdflatex"] 1717009349.64776 "d:/GitHub/Garavito_Craters/Tesis/project document/tesis.tex" "tesis.pdf" "tesis" 1717009361.81021 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc" 1256929440 3486 c7eadf5dcc57b3b2d11736679f6636ba ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc" 1256929440 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
@@ -362,7 +362,7 @@
   "C:/Users/eduar/AppData/Local/MiKTeX/fonts/tfm/public/esvect/vect8.tfm" 1711870933 372 4f0047d7e99a201724968cf4743804cf ""
   "C:/Users/eduar/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1711948439 24226190 47654c9783f65d9e46e3af705a180ea4 ""
   "Settings.tex" 1716842445 4253 bd03ebda4e176203f377a4a210665a73 ""
-  "d:/GitHub/Garavito_Craters/Tesis/project document/tesis.tex" 1716924763 57529 2f60ff118e98225464fe6b6f7cd00e12 ""
+  "d:/GitHub/Garavito_Craters/Tesis/project document/tesis.tex" 1717009312 72400 567388f6ff5948e09c03db10e6aa9648 ""
   "images/Albedo.png" 1716842445 123545 b37e10bba5b31ac662d88c792404926f ""
   "images/Azimuth_45_altitude_45.png" 1716842445 156983 9f5cdcaf557090540c2de931c78191c0 ""
   "images/Azimuth_45_altitude_5.png" 1716842445 172474 9f803ef911695928247264ecbcfa519c ""
@@ -380,14 +380,14 @@
   "images/coord_planetocentricas.png" 1716923058 69322 ad5f6c7e9c1987d4ac93a58d68d14f9f ""
   "images/diagrama_albedo.png" 1716842445 27504 f1ff7ed268ef448b100b2edb147b274a ""
   "images/waavelength.png" 1716842445 101882 727021733668670c272b12f17d90e59b ""
-  "tesis.aux" 1716924799 22373 3bd9ec0085cbdadb31da4846d006a11c "pdflatex"
-  "tesis.bbl" 1716924785 59172 78afbc89f01a3e81cc0e1cd3e74f6ffc "biber tesis"
-  "tesis.lof" 1716924799 4120 ea7c1a6e26836a9c568e5de2dfd6447f "pdflatex"
-  "tesis.lot" 1716924799 303 f39b8d8dd2f0de343d67687ecb2e8205 "pdflatex"
-  "tesis.out" 1716924799 3453 2ca25eb18ebbaac5aff4065961f1f9ba "pdflatex"
-  "tesis.run.xml" 1716924799 2311 e4b2a098db948c89981d61265246c6c4 "pdflatex"
-  "tesis.tex" 1716924763 57529 2f60ff118e98225464fe6b6f7cd00e12 ""
-  "tesis.toc" 1716924799 1841 eb4e4d5b7e64a262919293bd9c55935d "pdflatex"
+  "tesis.aux" 1717009360 23053 cb7e870e19c7f864287259a9e1be28c9 "pdflatex"
+  "tesis.bbl" 1717008166 67903 a58f8a0830b24bfa8d6cd3c9f7a9d76a "biber tesis"
+  "tesis.lof" 1717009360 4120 a654a780a83479c62dac5d8881d86a5c "pdflatex"
+  "tesis.lot" 1717009360 303 892342f22aa718d3a325add09c7695db "pdflatex"
+  "tesis.out" 1717009360 3596 688b067b8d748967e08370e31e07a0a3 "pdflatex"
+  "tesis.run.xml" 1717009360 2311 e4b2a098db948c89981d61265246c6c4 "pdflatex"
+  "tesis.tex" 1717009312 72400 567388f6ff5948e09c03db10e6aa9648 ""
+  "tesis.toc" 1717009360 1925 22fbf7f6ed8452409a63b5e959bab598 "pdflatex"
   (generated)
   "tesis.aux"
   "tesis.bcf"

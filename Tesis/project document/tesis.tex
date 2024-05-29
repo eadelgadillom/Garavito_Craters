@@ -651,17 +651,17 @@ aceptado frente a mediciones únicas de infrarrojo térmico (IR), de disco compl
 calibradas de la de la Luna. Los datos fueron obtenidos por los instrumentos High-resolution 
 InfraRed Sounder (HIRS) a bordo de una flota de satélites meteorológicos de la Tierra que, 
 por casualidad, se instalaron en la Luna. Encontramos 22 intrusiones lunares, tomadas en 
-19 canales entre 3,75 µm y 15,0 µm, y en un amplio rango de ángulos de fase desde -73,1◦ 
+19 canales entre 3,75 micronm y 15,0 micronm, y en un amplio rango de ángulos de fase desde -73,1◦ 
 (Luna creciente) hasta +73,8◦ (Luna menguante). Estas mediciones incluyen la Luna entera 
 en un solo píxel, vista casi simultáneamente en todas las bandas. Los filtros HIRS son 
 estrechos y están fuera del régimen de longitudes de onda de la característica Christiansen. 
 La similitud entre estos datos lunares y las distribuciones de energía espectral-IR típicas 
 de los asteroides nos permite comparar los conceptos del TPM y señalar los aspectos 
 problemáticos. Las predicciones del TPM coinciden con las mediciones del HIRS en un 5
-(10 \% en las longitudes de onda más cortas por debajo de 5 µm) cuando se utilizan las 
+(10 \% en las longitudes de onda más cortas por debajo de 5 micronm) cuando se utilizan las 
 propiedades conocidas de la Luna (tamaño, forma, espín, albedo, inercia térmica, rugosidad) 
 en combinación con una emisividad hemisférica dependiente de la longitud de onda 
-recientemente establecida. En los rangos de 5-7,5 µm y 9,5- 11 µm, el modelo de emisividad 
+recientemente establecida. En los rangos de 5-7,5 micronm y 9,5- 11 micronm, el modelo de emisividad 
 global se desvía considerablemente de los espectros de muestras lunares conocidos. 
 Nuestros hallazgos influirán en los estudios radiométricos de asteroides cercanos a la 
 Tierra y del cinturón principal en los casos en los que sólo se disponga de datos de longitud 
@@ -669,6 +669,39 @@ de onda corta (de, por ejemplo, NEOWISE, la misión warm Spitzer, o mediciones t
 banda M). El nuevo modelo lunar IR de disco completo también se utilizará para la calibración 
 de instrumentos IR en misiones interplanetarias (por ejemplo, para Hayabusa-2) y satélites 
 meteorológicos.
+La espectroscopía de emisión térmica (en el infrarrojo a 4-25 \textmu m) se puede utilizar 
+para estimar la composición mineralógica y, por lo tanto, la composición química total de rocas 
+y minerales. La técnica se basa en el hecho de que los materiales emiten radiación térmica a 
+frecuencias o longitudes de onda que están regidas por la geometría molecular y de red y las 
+constantes de fuerza entre átomos. La emisividad espectral de un material contiene información 
+que puede ser descifrada en términos de composición molecular y cristalinidad [Farmer, 1974]. 
+Por lo tanto, la espectroscopía de emisión térmica es una técnica de teledetección potencialmente 
+útil para mapear las composiciones en las superficies planetarias. Aquí revisamos y evaluamos 
+esta técnica de teledetección para su aplicación en la exploración lunar. En particular, 
+evaluamos la viabilidad de la espectroscopía de emisión térmica como una técnica efectiva para 
+mapear la composición mineral y rocosa de la superficie lunar desde una nave espacial en órbita. 
+El trasfondo de este esfuerzo es que un Espectrómetro de Emisión Térmica (TES) fue respaldado por 
+la NASA para la exploración de Marte, y es parte de la carga útil científica en la nave espacial 
+Mars Observer (MO) [Christensen et al., 1985, 1992]. TES está diseñado para llevar a cabo una 
+misión de mapeo orbital no tripulado de Marte a partir de finales de 1993. La principal preocupación 
+para el uso de la espectrometría de emisión IR en la Luna es el efecto bien conocido del tamaño de 
+partícula en las características espectrales infrarrojas de los materiales rocosos [Lyon, 1964]. 
+Es decir, la dispersión de fotones en muestras de partículas finas reduce en gran medida el contraste 
+espectral de las bandas fundamentales de vibración molecular en el infrarrojo que tradicionalmente 
+se han utilizado en el laboratorio para determinar la composición, lo que hace necesario que las 
+aplicaciones de campo o de teledetección utilicen otras características espectrales, como la 
+frecuencia de Christiansen (discutida a continuación), que no son tan conocidas. Contribuyendo a 
+esta preocupación está un sentido comúnmente expresado de duda sobre la espectroscopía de emisión 
+térmica para aplicaciones lunares que ha prevalecido desde finales de la década de 1960. Esta duda 
+surgió de discrepancias reales o percibidas en resultados publicados donde se utilizaron técnicas de 
+infrarrojo medio para observar la Luna con telescopios terrestres [por ejemplo, Goetz, 1968; Murcray 
+et al., 1970; Salisbury et al., 1970; Potter y Morgan, 1981; Tyler et al., 1988; Lucey y Hawke, 1989; 
+Lucey et al., 1989] y para examinar muestras lunares en el laboratorio [por ejemplo, Estep et al., 
+1971; Salisbury et al., 1973; Aronson et al., 1979]. Este informe revisa las propiedades y 
+procesos espectroscópicamente importantes de la superficie lunar y describe cómo la técnica 
+de espectroscopía de emisión térmica se puede aplicar a la exploración lunar. Revisiones generales 
+de la espectroscopia IR de minerales y polvos de roca se pueden encontrar en otros lugares de la 
+literatura [por ejemplo, Farmer, 1974; Salisbury y Walter, 1989] \parencite{NAsh_douglas}.
 \begin{figure}[H]
     \centering
     \includegraphics[width=1\textwidth]{images/Emision_moon_example.png}
@@ -682,6 +715,102 @@ meteorológicos.
     Fuente: tomado de Hartmann 1989.}
     \label{fig:ejemplo_emision_luna}
 \end{figure}
+Los espectros de reflectancia, una herramienta importante para explorar la Luna, están disponibles 
+en forma de mediciones de laboratorio de muestras lunares (por ejemplo, Pieters et al., 2000), 
+mediciones remotas desde telescopios basados en la Tierra (por ejemplo, McCord et al., 1981; 
+Lucey et al., 1986; Shkuratov et al., 2001; Kieffer y Stone, 2005; Saiki et al., 2008; Velikodsky et al., 2011) 
+o naves espaciales (por ejemplo, Hillier et al., 1999; Besse et al., 2013; Wu et al., 2013; 
+Ohtake et al., 2010; Boyd et al., 2012; Mahanti et al., 2016). Estas mediciones están limitadas
+en su representación de la reflectancia absoluta real de la Luna debido a la perturbación 
+del regolito lunar devuelto 
+y la falta de un dispositivo de calibración a bordo. Los espectros de reflectancia recolectados 
+in situ con un panel de calibración no solo pueden cuantificar la reflectancia absoluta, 
+sino que también tienen el potencial de proporcionar más detalles composicionales y 
+proporcionar una verdad de base para los datos de teledetección. 
+Más singularmente, dichos datos pueden proporcionar información clave sobre el intemperismo 
+espacial al medir el regolito superior no perturbado 
+así como ubicaciones que han sido afectadas por el escape de cohetes de la nave espacial. 
+Los primeros espectros de reflectancia in situ no se midieron hasta finales de 2013, cuando 
+la nave espacial Chang'E-3 (CE-3) de China aterrizó en la Luna. 
+A las 13:11:18 UTC del 14 de diciembre de 2013, CE-3 aterrizó en el norte de Mare Imbrium 
+(Fig. 1) con el sitio de aterrizaje en 
+(44.1281°N, 19.5110°W). El sitio de aterrizaje está a unos 50 m al este de un cráter de 450 m 
+llamado Zi Wei. 
+La unidad del sitio de aterrizaje pertenece a la última fase importante del vulcanismo lunar 
+(basaltos del Eratosteniano) con una edad recién fechada de aproximadamente 2.35 Ga (Wu et al., 2015). 
+Estos basaltos no muestreados atrajeron una atención significativa hace bastante tiempo debido a 
+su edad relativamente joven y espectros únicos en términos de oscuridad, color azul, absorción de 
+1  micron amplia y absorción atenuada de 2 micron (por ejemplo, Staid et al., 2011; Wu et al., 2015). 
+Un espectrómetro Visible-Cercano Infrarrojo (VNIS) fue llevado en el rover “Yutu (Conejo de Jade)” 
+y midió el primer conjunto de espectros de reflectancia in situ de la Luna. 
+Los primeros trabajos sobre VNIS se centraron principalmente en la descripción/calibración instrumental 
+(He et al., 2014; Xu et al., 2014; Liu et al., 2014) o análisis mineral y elemental 
+(Zhang et al., 2015a, 2015b; Ling et al., 2015; Hu et al., 2015; Wang et al., 2017) \parencite{McCord}.\\
+\\
+Salisbury, Basu y Fisher realizaron mediciones de los espectros de reflectancia hemisférica 
+direccional en el 
+infrarrojo (2.08–14 $\mu$m) de los suelos lunares que representan las 
+principales unidades litológicas muestreadas hasta ahora en la superficie 
+lunar, y de suelos con diferentes edades de exposición dentro de esas 
+unidades. Tales espectros de reflectancia (R) pueden utilizarse para 
+calcular la emisividad absoluta (E) usando la Ley de Kirchhoff (E = 1 - R). 
+Los efectos de la edad de exposición varían según la región del espectro. 
+En las regiones de 2–5 $\mu$m y 8–14 $\mu$m, los suelos lunares se oscurecen 
+con la edad de exposición, consistente con el comportamiento espectral en el 
+VNIR y el efecto óptico dominante de cantidades crecientes de hierro metálico 
+finamente dividido en suelos más maduros. Sin embargo, en la región de 5–8 
+$\mu$m los suelos tienden a mostrar mayores reflectancias con una mayor edad 
+de exposición, lo que sugiere algún cambio no anticipado en las propiedades 
+ópticas del hierro metálico fino en esas longitudes de onda. La característica 
+espectral más útil para la teledetección composicional es el mínimo de 
+reflectancia de Christiansen (máximo de emisividad), cuyo contraste espectral 
+es realzado por el ambiente lunar, y cuya posición en la longitud de onda puede 
+relacionarse con la composición sin verse mucho afectada por la edad de 
+exposición. El ambiente de vacío en la superficie lunar no solo mejora el 
+contraste espectral de la característica de Christiansen, sino que también lo 
+desplaza ligeramente a longitudes de onda más cortas, un efecto que debe ser 
+compensado al inferir la composición. En contraste con la característica de 
+Christiansen, las débiles y relativamente pocas bandas de absorción 
+en la región de dispersión de volumen entre 3 y 8 $\mu$m 
+parecen ser de utilidad limitada. Las bandas de reststrahlen también son muy 
+débiles en los espectros de emisividad absoluta, y evidentemente no son mejoradas 
+por el ambiente lunar de la misma manera que la característica de Christiansen. 
+Así, solo pueden ser utilizadas para la teledetección con mediciones de una 
+señal-ruido extraordinariamente alta (1000/1). Sin embargo, estas características, 
+así como la característica de transparencia (que es particularmente prominente en 
+los espectros de suelos feldespáticos), contienen importante información 
+mineralógica, como las abundancias relativas de plagioclasa y piroxeno, y pueden 
+ser utilizadas para estudios de laboratorio de suelos lunares. Análisis 
+mineralógicos más ciertos y cuantitativos de los suelos lunares parecen factibles 
+tras análisis espectrales adicionales de separaciones de suelos, y análisis 
+mineralógicos adicionales de muestras de suelos para las cuales se disponga de 
+datos espectrales \parencite{SALISBURY1997125}.\\
+\\
+Desde los primeros días de la teledetección espectroscópica de la superficie lunar, 
+las bandas de transición electrónica exhibidas por los suelos lunares en las regiones 
+del espectro visible e infrarrojo cercano (VNIR) se han utilizado para determinar la 
+composición mineralógica (por ejemplo, McCord y Johnson, 1970; McCord et al., 1972; 
+Adams, 1974). También hubo un reconocimiento temprano de los efectos del intemperismo 
+espacial en los suelos lunares y en su reflectancia espectral (por ejemplo, McKay et 
+al., 1974; Hapke et al., 1975; Morris, 1976; Charette et al., 1976; y Basu, 1977), 
+resultando en un modelo básico que, sin embargo, continúa refinándose (por ejemplo, 
+Pieters et al., 1993; Fischer y Pieters, 1994; y Clark y Johnson, 1996). Brevemente, 
+los suelos lunares se derivan principalmente de la trituración de las rocas subyacentes 
+por impacto hiperveloz. Con el tiempo, una lluvia de impactos de micrometeoritos continúa 
+el proceso de trituración pero, junto con la erosión del viento solar, también produce 
+progresivamente más fase de fusión y vapor depositado desde vapor en las superficies de 
+los granos. Aunque otros procesos afectan un suelo envejecido, son las partículas de hierro 
+las que, en y sobre los granos, principalmente en aglutinados soldados por vidrio, son 
+las que principalmente explican el oscurecimiento y enrojecimiento de la reflectancia del 
+suelo lunar con la edad de exposición en la superficie lunar, así como la disminución del 
+contraste espectral de las bandas de transición electrónica. En consecuencia, un buen 
+método para relacionar la edad de exposición del suelo lunar con sus cambiantes propiedades 
+ópticas es utilizar la resonancia ferromagnética para medir la intensidad de la resonancia 
+característica del hierro de dominio único dentro del suelo normalizado al contenido de FeO, 
+obteniendo el índice de exposición ampliamente utilizado, Is/FeO (Morris, 1976). Este enfoque 
+fue utilizado por Fischer (1995) para seleccionar conjuntos de suelos lunares de composición 
+similar pero diferentes edades de exposición para estudiar el efecto del intemperismo espacial 
+lunar en los espectros de reflectancia.
 
 \subsection{Coordenadas Selenográficas}
 La Unión Astronómica Nacional (IAU), ha establecido un sistema de referencia de coordenadas para los distintos cuerpos del sistema solar.
@@ -709,7 +838,6 @@ En la Tabla \ref{tab:IAU_coor}, se muestra una lista de estos sistemas de coorde
       \end{tabular}%
     \label{tab:IAU_coor}%
 \end{table}%
-
 Una red de control está compuesta por una red de puntos de control. Un punto de control es una ubicación en un planeta 
 o satélite que se utiliza como referencia. Un conjunto de puntos de control en una red de control nos permite calcular 
 con precisión la ubicación de una característica en un planeta o satélite en relación con la red de puntos de control 
@@ -794,7 +922,78 @@ lado lejano de la Luna era realmente muy diferente a la del lado cercano \parenc
 
 Morfología Luna \parencite{PhysicsandAstronomyMoon}
 Temperatura en la superficie lunar \parencite{Zhengling2024}
+\subsection{Topografía Lunar}
+En relacion con el relieve de la Luna se dispone de una gran cantidad de datos, expresados en los 
+libros de Elger, Neison, Nasmyth y Carpenter, 
+Shaler, Graff, Fisher y otros, así como en 
+las magníficas fotografías de la Luna tomadas 
+en los observatorios de París, Lick y Mount Wilson. 
+De valor único es el suntuoso atlas lunar 
+de Loewy y Puiseux, que representa una 
+docena de años de estudio fotográfico en el Observatorio de París. 
+Los antiguos mapas dibujados a mano 
+de Baer y Maedler, Schmidt y otros son 
+históricamente importantes y de valor permanente, 
+pero para muchos propósitos no son tan útiles como las 
+fotografías. La siguiente discusión se 
+confinará en gran medida a los llamados "cráteres", 
+rayados y no rayados, y los mares. 
 
+Según la explicación favorecida 
+del origen de la Luna, su material silicatado 
+estaba inicialmente lo suficientemente caliente como para ser líquido en 
+la superficie y contenía mucho gas disuelto; que 
+había algo de gas libre presente en los fragmentos terrestres; 
+y que más tarde probablemente se liberó gas adicional por la cristalización a presión de 
+silicato en las profundidades del globo lunar. 
+Por lo tanto, es natural buscar signos de acción volcánica moderada 
+en la topografía de la Luna. De 
+hecho, ninguna otra explicación parece tan plausible para 
+ciertas filas de pequeños pozos alineados, tipificados por 
+los que se encuentran en las cercanías de los "cráteres" Bulliadus y Stadius. 
+Tales supuestos cráteres verdaderos, comparativamente pequeños, deben contarse por 
+decenas si no por cientos; sin embargo, su área total es 
+solo una pequeña fracción de la superficie visible de la 
+Luna. 
+
+Muchos selenógrafos se han inclinado a 
+aceptar un origen similar para los miles de 
+depresiones mucho mayores: llanuras amuralladas, anillos montañosos, 
+llanuras craterizadas y "cráteres" de la clasificación de Neison. 
+Para esta conclusión hay pocos argumentos 
+convincentes. En su apoyo se ha hecho hincapié 
+en una supuesta homologación con las 
+depresiones terrestres mayores debidas a explosiones volcánicas importantes, 
+y también con los sumideros volcánicos 
+(desafortunadamente llamados "calderas") de 
+Hawái. 
+
+La primera de estas pretensiones de verdadera homologación es 
+sospechosa en cuanto se compara la 
+asimetría característica en los planos de estas "calderas" 
+terrestres de evisceración con el alto grado de simetría de las depresiones 
+lunares. Otros contrastes se encuentran en la gran 
+disparidad de tamaño, en la abundancia relativa, y en la 
+distribución sobre las respectivas superficies de 
+planeta y satélite. En ninguno de estos aspectos 
+el vulcanismo de tipo explosivo es una buena 
+explicación para los muchos miles de "cráteres" más grandes. 
+
+La sugerencia de J. D. Dana (1846), seguida 
+por la de W. H. Pickering (1906), de que 
+los sumideros hawaianos pueden representar más verdaderamente las 
+depresiones anilladas de la Luna también es 
+insatisfactoria. Los sumideros hawaianos son efectos superficiales 
+de hundimientos, causados en gran parte por el 
+retiro de lava a través de fisuras que se han 
+abierto en el poderoso domo de lava de Hawái, este 
+retiro es posible porque la gran 
+elevación del domo visible sobre el 
+suelo del Pacífico proporciona la condición requerida para el 
+drenaje de lava de las tuberías o 
+conductos activos. En la Luna no existe tal diferencia 
+de nivel para inducir un retiro importante de lava 
+en profundidad.
 
 \section{Metodología}\label{sec:metodologia}
 El proyecto se desarrollara en distintas fases atendiendo al alcance de cada uno de los 
