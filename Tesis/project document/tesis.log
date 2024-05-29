@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.1)  29 MAY 2024 14:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.4.1)  29 MAY 2024 17:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1627,7 +1627,7 @@ Package biblatex Info: Reference segment=0 on input line 10.
 
 Package pgfplots notification 'compat/show suggested version=true': you might benefit from \pgfplotsset{compat=1.18} (current compat level: 1.17).
 
-<images/EscudoUN.png, id=94, 202.356pt x 82.8696pt>
+<images/EscudoUN.png, id=98, 202.356pt x 82.8696pt>
 File: images/EscudoUN.png Graphic file (type png)
 <use images/EscudoUN.png>
 Package pdftex.def Info: images/EscudoUN.png  used on input line 20.
@@ -1783,7 +1783,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has b
                    \relax 
 l.135 \newpage
                [2]
-<images/Moon_sides.jpg, id=231, 469.755pt x 264.23718pt>
+<images/Moon_sides.jpg, id=236, 469.755pt x 264.23718pt>
 File: images/Moon_sides.jpg Graphic file (type jpg)
 <use images/Moon_sides.jpg>
 Package pdftex.def Info: images/Moon_sides.jpg  used on input line 153.
@@ -1793,17 +1793,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 137--159
 
  []
 
-<images/Azimuth_45_altitude_70.png, id=235, 265.2309pt x 181.3977pt>
+<images/Azimuth_45_altitude_70.png, id=240, 265.2309pt x 181.3977pt>
 File: images/Azimuth_45_altitude_70.png Graphic file (type png)
 <use images/Azimuth_45_altitude_70.png>
 Package pdftex.def Info: images/Azimuth_45_altitude_70.png  used on input line 181.
 (pdftex.def)             Requested size: 145.87875pt x 99.7718pt.
-<images/Azimuth_45_altitude_45.png, id=236, 265.2309pt x 181.3977pt>
+<images/Azimuth_45_altitude_45.png, id=241, 265.2309pt x 181.3977pt>
 File: images/Azimuth_45_altitude_45.png Graphic file (type png)
 <use images/Azimuth_45_altitude_45.png>
 Package pdftex.def Info: images/Azimuth_45_altitude_45.png  used on input line 188.
 (pdftex.def)             Requested size: 145.87875pt x 99.7718pt.
-<images/Azimuth_45_altitude_5.png, id=237, 265.2309pt x 181.3977pt>
+<images/Azimuth_45_altitude_5.png, id=242, 265.2309pt x 181.3977pt>
 File: images/Azimuth_45_altitude_5.png Graphic file (type png)
 <use images/Azimuth_45_altitude_5.png>
 Package pdftex.def Info: images/Azimuth_45_altitude_5.png  used on input line 195.
@@ -1848,19 +1848,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 234--273
 
  []
 
-<images/Garavito_craters_LRO.png, id=264, 597.432pt x 421.0932pt>
+<images/Garavito_craters_LRO.png, id=269, 597.432pt x 421.0932pt>
 File: images/Garavito_craters_LRO.png Graphic file (type png)
 <use images/Garavito_craters_LRO.png>
 Package pdftex.def Info: images/Garavito_craters_LRO.png  used on input line 284.
 (pdftex.def)             Requested size: 340.37885pt x 239.91638pt.
 [5]
-<images/Gaia_map_of_interstellar_dust_in_the_Milky_Way.png, id=272, 2006.49625pt x 1002.74625pt>
+<images/Gaia_map_of_interstellar_dust_in_the_Milky_Way.png, id=277, 2006.49625pt x 1002.74625pt>
 File: images/Gaia_map_of_interstellar_dust_in_the_Milky_Way.png Graphic file (type png)
 <use images/Gaia_map_of_interstellar_dust_in_the_Milky_Way.png>
 Package pdftex.def Info: images/Gaia_map_of_interstellar_dust_in_the_Milky_Way.png  used on input line 303.
 (pdftex.def)             Requested size: 340.37885pt x 170.09738pt.
  [6 <./images/Garavito_craters_LRO.png>]
-<images/HR_diagram.jpg, id=283, 903.375pt x 737.75626pt>
+<images/HR_diagram.jpg, id=288, 903.375pt x 737.75626pt>
 File: images/HR_diagram.jpg Graphic file (type jpg)
 <use images/HR_diagram.jpg>
 Package pdftex.def Info: images/HR_diagram.jpg  used on input line 346.
@@ -1881,7 +1881,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 309--351
  []
 
 [7 <./images/Gaia_map_of_interstellar_dust_in_the_Milky_Way.png>]
-<images/System_solar_origin.png, id=293, 1059.96pt x 576.1525pt>
+<images/System_solar_origin.png, id=298, 1059.96pt x 576.1525pt>
 File: images/System_solar_origin.png Graphic file (type png)
 <use images/System_solar_origin.png>
 Package pdftex.def Info: images/System_solar_origin.png  used on input line 375.
@@ -1892,7 +1892,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 354--380
  []
 
 [8 <./images/HR_diagram.jpg>] [9 <./images/System_solar_origin.png>] [10]
-<images/EM_Spectrum_Properties_edit.png, id=315, 677.53125pt x 401.5pt>
+<images/EM_Spectrum_Properties_edit.png, id=320, 677.53125pt x 401.5pt>
 File: images/EM_Spectrum_Properties_edit.png Graphic file (type png)
 <use images/EM_Spectrum_Properties_edit.png>
 Package pdftex.def Info: images/EM_Spectrum_Properties_edit.png  used on input line 460.
@@ -1907,7 +1907,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 487--498
 
  []
 
-<images/waavelength.png, id=329, 376.40625pt x 737.00343pt>
+<images/waavelength.png, id=334, 376.40625pt x 737.00343pt>
 File: images/waavelength.png Graphic file (type png)
 <use images/waavelength.png>
 Package pdftex.def Info: images/waavelength.png  used on input line 520.
@@ -1933,7 +1933,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 566--585
  []
 
 [14{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}]
-<images/diagrama_albedo.png, id=358, 352.31625pt x 392.96812pt>
+<images/diagrama_albedo.png, id=363, 352.31625pt x 392.96812pt>
 File: images/diagrama_albedo.png Graphic file (type png)
 <use images/diagrama_albedo.png>
 Package pdftex.def Info: images/diagrama_albedo.png  used on input line 597.
@@ -1943,19 +1943,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 587--601
 
  []
 
-<images/albedo_sol_reflejo.png, id=361, 353.82187pt x 353.82187pt>
+<images/albedo_sol_reflejo.png, id=366, 353.82187pt x 353.82187pt>
 File: images/albedo_sol_reflejo.png Graphic file (type png)
 <use images/albedo_sol_reflejo.png>
 Package pdftex.def Info: images/albedo_sol_reflejo.png  used on input line 615.
 (pdftex.def)             Requested size: 194.50008pt x 194.50005pt.
 [15 <./images/diagrama_albedo.png>]
-<images/Albedo.png, id=368, 542.77782pt x 391.4625pt>
+<images/Albedo.png, id=373, 542.77782pt x 391.4625pt>
 File: images/Albedo.png Graphic file (type png)
 <use images/Albedo.png>
 Package pdftex.def Info: images/Albedo.png  used on input line 631.
 (pdftex.def)             Requested size: 243.1288pt x 175.3501pt.
  [16 <./images/albedo_sol_reflejo.png>]
-<images/Emision_moon_example.png, id=376, 635.37375pt x 278.54062pt>
+<images/Emision_moon_example.png, id=381, 635.37375pt x 278.54062pt>
 File: images/Emision_moon_example.png Graphic file (type png)
 <use images/Emision_moon_example.png>
 Package pdftex.def Info: images/Emision_moon_example.png  used on input line 707.
@@ -1996,7 +1996,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 841--860
  []
 
 [21]
-<images/coord_planetocentricas.png, id=409, 529.98pt x 451.6875pt>
+<images/coord_planetocentricas.png, id=414, 529.98pt x 451.6875pt>
 File: images/coord_planetocentricas.png Graphic file (type png)
 <use images/coord_planetocentricas.png>
 Package pdftex.def Info: images/coord_planetocentricas.png  used on input line 871.
@@ -2011,27 +2011,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 885--922
 
  []
 
-[23 <./images/coord_planetocentricas.png>] [24] [25]
-<images/Schedule.png, id=441, 634.62094pt x 561.59813pt>
+[23 <./images/coord_planetocentricas.png>] [24]
+Underfull \hbox (badness 10000) in paragraph at lines 996--1030
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 996--1030
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 996--1030
+
+ []
+
+[25] [26]
+<images/Schedule.png, id=451, 634.62094pt x 561.59813pt>
 File: images/Schedule.png Graphic file (type png)
 <use images/Schedule.png>
-Package pdftex.def Info: images/Schedule.png  used on input line 1034.
+Package pdftex.def Info: images/Schedule.png  used on input line 1067.
 (pdftex.def)             Requested size: 486.25761pt x 430.31528pt.
- [26] [27 <./images/Schedule.png>]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1040.
+ [27] [28 <./images/Schedule.png>]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1073.
  (C:\Program Files\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'GaravitoArmero_2017' on input line 1040.
+(biblatex)                at entry 'GaravitoArmero_2017' on input line 1073.
 
-[28]
-Overfull \hbox (2.26079pt too wide) in paragraph at lines 1041--1041
+[29]
+Overfull \hbox (2.26079pt too wide) in paragraph at lines 1074--1074
 \T1/lmtt/m/n/12 1093 / acrefore / 9780190647926 . 013 . 2$[][]\T1/lmr/m/n/12 . \T1/lmr/m/sc/12 url\T1/lmr/m/n/12 : [][]$\T1/lmtt/m/n/12 https : / / oxfordre . com / planetaryscience /
  []
 
-[29] [30] (tesis.aux
+[30] [31] (tesis.aux
 LaTeX Info: Redefining \sptext on input line 8.
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
@@ -2041,23 +2056,23 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: 688B067B8D748967E08370E31E07A0A3;3596.
+(rerunfilecheck)             Checksum: EFB59BA3D07E710A897E6D6CC7F2BB4F;3792.
 Package logreq Info: Writing requests to 'tesis.run.xml'.
 \openout1 = `tesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 60463 strings out of 474424
- 1336669 string characters out of 5751555
- 2369953 words of memory out of 5000000
- 81706 multiletter control sequences out of 15000+600000
+ 60466 strings out of 474424
+ 1336671 string characters out of 5751555
+ 2370928 words of memory out of 5000000
+ 81707 multiletter control sequences out of 15000+600000
  609768 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  138i,13n,139p,2624b,2776s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmro12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on tesis.pdf (35 pages, 11911907 bytes).
+Output written on tesis.pdf (36 pages, 11915666 bytes).
 PDF statistics:
- 632 PDF objects out of 1000 (max. 8388607)
- 115 named destinations out of 1000 (max. 500000)
- 274 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 643 PDF objects out of 1000 (max. 8388607)
+ 117 named destinations out of 1000 (max. 500000)
+ 282 words of extra memory for PDF output out of 10000 (max. 10000000)
 

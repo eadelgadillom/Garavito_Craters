@@ -178,8 +178,10 @@
       \strng{authornamehash}{404d5dc58b153f6aa3a142fc1b112601}
       \strng{authorfullhash}{404d5dc58b153f6aa3a142fc1b112601}
       \strng{authorfullhashraw}{404d5dc58b153f6aa3a142fc1b112601}
+      \field{extraname}{1}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -189,6 +191,53 @@
       \field{number}{2}
       \field{title}{Origin of the Moon and Its Topography}
       \field{urlday}{28}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{90}
+      \field{year}{1946}
+      \field{urldateera}{ce}
+      \field{pages}{104\bibrangedash 119}
+      \range{pages}{16}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/3301051
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/3301051
+      \endverb
+    \endentry
+    \entry{Reginaldb}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=404d5dc58b153f6aa3a142fc1b112601}{%
+           family={Daly},
+           familyi={D\bibinitperiod},
+           given={Reginald\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Philosophical Society}%
+      }
+      \strng{namehash}{404d5dc58b153f6aa3a142fc1b112601}
+      \strng{fullhash}{404d5dc58b153f6aa3a142fc1b112601}
+      \strng{fullhashraw}{404d5dc58b153f6aa3a142fc1b112601}
+      \strng{bibnamehash}{404d5dc58b153f6aa3a142fc1b112601}
+      \strng{authorbibnamehash}{404d5dc58b153f6aa3a142fc1b112601}
+      \strng{authornamehash}{404d5dc58b153f6aa3a142fc1b112601}
+      \strng{authorfullhash}{404d5dc58b153f6aa3a142fc1b112601}
+      \strng{authorfullhashraw}{404d5dc58b153f6aa3a142fc1b112601}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0003049X}
+      \field{journaltitle}{Proceedings of the American Philosophical Society}
+      \field{number}{2}
+      \field{title}{Origin of the Moon and Its Topography}
+      \field{urlday}{29}
       \field{urlmonth}{5}
       \field{urlyear}{2024}
       \field{volume}{90}
@@ -527,39 +576,6 @@
       \field{year}{1968}
       \field{pages}{20}
       \range{pages}{1}
-    \endentry
-    \entry{PhysicsandAstronomyMoon}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=bd885de4555ed9a41e0d8a5f51d0b01a}{%
-           family={Kopal},
-           familyi={K\bibinitperiod},
-           given={Zdeněk},
-           giveni={Z\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{2}{%
-        {Academic Press, New York}%
-        {London}%
-      }
-      \strng{namehash}{bd885de4555ed9a41e0d8a5f51d0b01a}
-      \strng{fullhash}{bd885de4555ed9a41e0d8a5f51d0b01a}
-      \strng{fullhashraw}{bd885de4555ed9a41e0d8a5f51d0b01a}
-      \strng{bibnamehash}{bd885de4555ed9a41e0d8a5f51d0b01a}
-      \strng{authorbibnamehash}{bd885de4555ed9a41e0d8a5f51d0b01a}
-      \strng{authornamehash}{bd885de4555ed9a41e0d8a5f51d0b01a}
-      \strng{authorfullhash}{bd885de4555ed9a41e0d8a5f51d0b01a}
-      \strng{authorfullhashraw}{bd885de4555ed9a41e0d8a5f51d0b01a}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{6016985}
-      \field{series}{Department of Astronomy, University of Manchester}
-      \field{title}{Physics and Astronomy of the Moon}
-      \field{year}{1961}
-      \keyw{physics}
     \endentry
     \entry{LESLIE2019598}{article}{}{}
       \name{author}{1}{}{%

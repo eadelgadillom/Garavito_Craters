@@ -1,18 +1,17 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
-[0] Config.pm:311> INFO - Logfile is 'tesis.blg'
-[355] biber-MSWIN64:340> INFO - === 
-[441] Biber.pm:420> INFO - Reading 'tesis.bcf'
-[744] Biber.pm:994> INFO - Found 31 citekeys in bib section 0
-[775] Biber.pm:4463> INFO - Processing section 0
-[805] Biber.pm:4654> INFO - Looking for bibtex file 'ref.bib' for section 0
-[923] bibtex.pm:1713> INFO - LaTeX decoding ...
-[1071] bibtex.pm:1519> INFO - Found BibTeX data source 'ref.bib'
-[1567] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1567] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1572] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
-[1652] bbl.pm:676> INFO - Writing 'tesis.bbl' with encoding 'UTF-8'
-[1722] bbl.pm:779> INFO - Output to tesis.bbl
-[1722] Biber.pm:131> WARN - legacy month field 'dic.' in entry 'GaravitoArmero_2017' is not an integer - this will probably not sort properly.
-[1723] Biber.pm:131> WARN - legacy month field 'jul' in entry 'Razmi_2005' is not an integer - this will probably not sort properly.
-[1723] Biber.pm:131> WARN - ISBN '6016985' in entry 'PhysicsandAstronomyMoon' is invalid - run biber with '--validate_datamodel' for details.
-[1723] Biber.pm:133> INFO - WARNINGS: 3
+[1] Config.pm:311> INFO - Logfile is 'tesis.blg'
+[318] biber-MSWIN64:340> INFO - === 
+[410] Biber.pm:420> INFO - Reading 'tesis.bcf'
+[663] Biber.pm:994> INFO - Found 31 citekeys in bib section 0
+[696] Biber.pm:4463> INFO - Processing section 0
+[732] Biber.pm:4654> INFO - Looking for bibtex file 'ref.bib' for section 0
+[844] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1005] bibtex.pm:1519> INFO - Found BibTeX data source 'ref.bib'
+[1724] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1725] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1725] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[1820] bbl.pm:676> INFO - Writing 'tesis.bbl' with encoding 'UTF-8'
+[1884] bbl.pm:779> INFO - Output to tesis.bbl
+[1885] Biber.pm:131> WARN - legacy month field 'dic.' in entry 'GaravitoArmero_2017' is not an integer - this will probably not sort properly.
+[1885] Biber.pm:131> WARN - legacy month field 'jul' in entry 'Razmi_2005' is not an integer - this will probably not sort properly.
+[1885] Biber.pm:133> INFO - WARNINGS: 2
