@@ -133,8 +133,11 @@ bookmarksopen=true,
 \newsavebox{\UNl}
 \newsavebox{\UNd}
 \setlength{\headheight}{2cm}
-\lhead{\usebox{\UNl}\usebox{\UNd}}
-\rhead{\slshape Propuesta Proyecto de Tesis}
+\renewcommand{\sectionmark}[1]{\markboth{\thesection\ #1}{}}
+\renewcommand{\subsectionmark}[1]{\markright{\thesubsection\ #1}}
+%\lhead{\usebox{\UNl}\usebox{\UNd}}
+\lhead{\slshape \leftmark}
+\rhead{\slshape \rightmark}
 \cfoot{}
 \rfoot{\thepage}
 %\lfoot{\today}
