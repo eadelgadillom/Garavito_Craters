@@ -9,19 +9,18 @@
 \contentsline {section}{\numberline {3}Planteamiento del problema}{3}{section.3}%
 \contentsline {section}{\numberline {4}Antecedentes}{5}{section.4}%
 \contentsline {section}{\numberline {5}Estado del Arte}{7}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Formación de Sistemas Planetarios}{7}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Origen del sistema solar}{8}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Radiación del Cuerpo Negro y SED: Distribución Espectral de Energía}{11}{subsection.5.3}%
-\contentsline {subsubsection}{\numberline {5.3.1}Ley de Rayleigh–Jeans}{12}{subsubsection.5.3.1}%
-\contentsline {subsubsection}{\numberline {5.3.2}Ley de Wien's}{12}{subsubsection.5.3.2}%
-\contentsline {subsubsection}{\numberline {5.3.3}Ley de Stefan–Boltzmann}{14}{subsubsection.5.3.3}%
-\contentsline {subsection}{\numberline {5.4}Albedo}{15}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}Emisión en Infrarrojo}{17}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6}Coordenadas Selenográficas}{21}{subsection.5.6}%
-\contentsline {subsubsection}{\numberline {5.6.1}Coordenadas Planetocéntricas}{22}{subsubsection.5.6.1}%
-\contentsline {subsection}{\numberline {5.7}La Luna}{23}{subsection.5.7}%
-\contentsline {subsubsection}{\numberline {5.7.1}Topografía Lunar}{24}{subsubsection.5.7.1}%
-\contentsline {subsubsection}{\numberline {5.7.2}Temperatura de la Luna}{25}{subsubsection.5.7.2}%
-\contentsline {section}{\numberline {6}Metodología}{26}{section.6}%
-\contentsline {section}{\numberline {7}Presupuesto y Fuentes de Financiación}{27}{section.7}%
-\contentsline {section}{\numberline {8}Cronograma}{27}{section.8}%
+\contentsline {subsection}{\numberline {5.1}Origen del sistema solar}{7}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Radiación del Cuerpo Negro y SED: Distribución Espectral de Energía}{9}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Ley de Rayleigh–Jeans}{11}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}Ley de Wien's}{11}{subsubsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.3}Ley de Stefan–Boltzmann}{13}{subsubsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.3}Albedo}{14}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Emisión en Infrarrojo}{16}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Coordenadas Selenográficas}{20}{subsection.5.5}%
+\contentsline {subsubsection}{\numberline {5.5.1}Coordenadas Planetocéntricas}{21}{subsubsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.6}La Luna}{22}{subsection.5.6}%
+\contentsline {subsubsection}{\numberline {5.6.1}Topografía Lunar}{23}{subsubsection.5.6.1}%
+\contentsline {subsubsection}{\numberline {5.6.2}Temperatura de la Luna}{24}{subsubsection.5.6.2}%
+\contentsline {section}{\numberline {6}Metodología}{25}{section.6}%
+\contentsline {section}{\numberline {7}Presupuesto y Fuentes de Financiación}{26}{section.7}%
+\contentsline {section}{\numberline {8}Cronograma}{26}{section.8}%

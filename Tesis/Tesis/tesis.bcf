@@ -2389,27 +2389,25 @@
     <bcf:citekey order="14" intorder="1">graf1993lunar</bcf:citekey>
     <bcf:citekey order="15" intorder="1">isro2024</bcf:citekey>
     <bcf:citekey order="16" intorder="1">ZHAO2023115766</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">annurev:galacticwinds</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">Whittet2022DustIT</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">TheFormationandEvolutionoftheSolarSystem</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">Sun</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">levin2003origin</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">PLanet_formation</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">PLanet_formation</bcf:citekey>
-    <bcf:citekey order="24" intorder="1">wang2020atmosphere</bcf:citekey>
-    <bcf:citekey order="25" intorder="1">NAsh_douglas</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">McCord</bcf:citekey>
-    <bcf:citekey order="27" intorder="1">SALISBURY1997125</bcf:citekey>
-    <bcf:citekey order="28" intorder="1">iau_control_networks</bcf:citekey>
-    <bcf:citekey order="29" intorder="1">lro_coordinate_system</bcf:citekey>
-    <bcf:citekey order="30" intorder="1">lro_coordinate_system</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">TheFormationandEvolutionoftheSolarSystem</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">Sun</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">levin2003origin</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">PLanet_formation</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">PLanet_formation</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">wang2020atmosphere</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">NAsh_douglas</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">McCord</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">SALISBURY1997125</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">iau_control_networks</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">lro_coordinate_system</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">lro_coordinate_system</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">byrne2008far</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">Origin_of_the_moon</bcf:citekey>
     <bcf:citekey order="31" intorder="1">byrne2008far</bcf:citekey>
-    <bcf:citekey order="32" intorder="1">Origin_of_the_moon</bcf:citekey>
-    <bcf:citekey order="33" intorder="1">byrne2008far</bcf:citekey>
-    <bcf:citekey order="34" intorder="1">byrne2008far</bcf:citekey>
-    <bcf:citekey order="35" intorder="1">Reginaldb</bcf:citekey>
-    <bcf:citekey order="36" intorder="1">Zhengling2024</bcf:citekey>
-    <bcf:citekey order="37" intorder="1">Boquien2019</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">byrne2008far</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">Reginaldb</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">Zhengling2024</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">Boquien2019</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

@@ -1131,65 +1131,6 @@
       \verb https://www.sciencedirect.com/science/article/pii/S0019103597958097
       \endverb
     \endentry
-    \entry{annurev:galacticwinds}{article}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=de1603b0c3188dbf3707f75a01ad0a0b}{%
-           family={Veilleux},
-           familyi={V\bibinitperiod},
-           given={Sylvain},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a519ef161eaf7fe212b1e239d95120f2}{%
-           family={Cecil},
-           familyi={C\bibinitperiod},
-           given={Gerald},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=369240b574bf463a3f06636c4bc49772}{%
-           family={Bland-Hawthorn},
-           familyi={B\bibinithyphendelim H\bibinitperiod},
-           given={Joss},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Annual Reviews}%
-      }
-      \strng{namehash}{325cb9f3b908c67540924c2da9d06570}
-      \strng{fullhash}{325cb9f3b908c67540924c2da9d06570}
-      \strng{fullhashraw}{325cb9f3b908c67540924c2da9d06570}
-      \strng{bibnamehash}{325cb9f3b908c67540924c2da9d06570}
-      \strng{authorbibnamehash}{325cb9f3b908c67540924c2da9d06570}
-      \strng{authornamehash}{325cb9f3b908c67540924c2da9d06570}
-      \strng{authorfullhash}{325cb9f3b908c67540924c2da9d06570}
-      \strng{authorfullhashraw}{325cb9f3b908c67540924c2da9d06570}
-      \field{sortinit}{V}
-      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{▪ Abstract Galactic winds are the primary mechanism by which energy and metals are recycled in galaxies and are deposited into the intergalactic medium. New observations are revealing the ubiquity of this process, particularly at high redshift. We describe the physics behind these winds, discuss the observational evidence for them in nearby star-forming and active galaxies and in the high-redshift universe, and consider the implications of energetic winds for the formation and evolution of galaxies and the intergalactic medium. To inspire future research, we conclude with a set of observational and theoretical challenges.}
-      \field{issn}{1545-4282}
-      \field{journaltitle}{Annual Review of Astronomy and Astrophysics}
-      \field{number}{Volume 43, 2005}
-      \field{title}{Galactic Winds}
-      \field{type}{Journal Article}
-      \field{volume}{43}
-      \field{year}{2005}
-      \field{pages}{769\bibrangedash 826}
-      \range{pages}{58}
-      \verb{doi}
-      \verb https://doi.org/10.1146/annurev.astro.43.072103.150610
-      \endverb
-      \verb{urlraw}
-      \verb https://www.annualreviews.org/content/journals/10.1146/annurev.astro.43.072103.150610
-      \endverb
-      \verb{url}
-      \verb https://www.annualreviews.org/content/journals/10.1146/annurev.astro.43.072103.150610
-      \endverb
-      \keyw{halos}
-    \endentry
     \entry{VERMA2022115075}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=103149b720efcb2c452ad0b44bd47482}{%
@@ -1271,38 +1212,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Atmosphere and climate}
       \field{year}{2020}
-    \endentry
-    \entry{Whittet2022DustIT}{inproceedings}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4c88e8957eddc6e4f2b25d7082c235f6}{%
-           family={Whittet},
-           familyi={W\bibinitperiod},
-           given={D.\bibnamedelimi C.\bibnamedelimi B.},
-           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{4c88e8957eddc6e4f2b25d7082c235f6}
-      \strng{fullhash}{4c88e8957eddc6e4f2b25d7082c235f6}
-      \strng{fullhashraw}{4c88e8957eddc6e4f2b25d7082c235f6}
-      \strng{bibnamehash}{4c88e8957eddc6e4f2b25d7082c235f6}
-      \strng{authorbibnamehash}{4c88e8957eddc6e4f2b25d7082c235f6}
-      \strng{authornamehash}{4c88e8957eddc6e4f2b25d7082c235f6}
-      \strng{authorfullhash}{4c88e8957eddc6e4f2b25d7082c235f6}
-      \strng{authorfullhashraw}{4c88e8957eddc6e4f2b25d7082c235f6}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Dust in the Galactic Environment (Third Edition)}
-      \field{year}{2022}
-      \verb{urlraw}
-      \verb https://api.semanticscholar.org/CorpusID:251685183
-      \endverb
-      \verb{url}
-      \verb https://api.semanticscholar.org/CorpusID:251685183
-      \endverb
     \endentry
     \entry{Zhengling2024}{article}{}{}
       \name{author}{3}{}{%
