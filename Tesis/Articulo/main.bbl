@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{1}%
+\begin{thebibliography}{3}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -69,4 +69,47 @@
   intelectual}}},\ \bibinfo {edition} {1st}\ ed.\ (\bibinfo  {publisher}
   {Universidad Nacional de Colombia},\ \bibinfo {year} {2025})\BibitemShut
   {NoStop}%
+\bibitem [{\citenamefont {Jaumann}\ \emph {et~al.}(2012)\citenamefont
+  {Jaumann}, \citenamefont {Hiesinger}, \citenamefont {Anand}, \citenamefont
+  {Crawford}, \citenamefont {Wagner}, \citenamefont {Sohl}, \citenamefont
+  {Jolliff}, \citenamefont {Scholten}, \citenamefont {Knapmeyer}, \citenamefont
+  {Hoffmann}, \citenamefont {Hussmann}, \citenamefont {Grott}, \citenamefont
+  {Hempel}, \citenamefont {Köhler}, \citenamefont {Krohn}, \citenamefont
+  {Schmitz}, \citenamefont {Carpenter}, \citenamefont {Wieczorek},
+  \citenamefont {Spohn}, \citenamefont {Robinson},\ and\ \citenamefont
+  {Oberst}}]{JAUMANN201215}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
+  {Jaumann}}, \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Hiesinger}},
+  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Anand}}, \bibinfo
+  {author} {\bibfnamefont {I.}~\bibnamefont {Crawford}}, \bibinfo {author}
+  {\bibfnamefont {R.}~\bibnamefont {Wagner}}, \bibinfo {author} {\bibfnamefont
+  {F.}~\bibnamefont {Sohl}}, \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
+  {Jolliff}}, \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont {Scholten}},
+  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Knapmeyer}}, \bibinfo
+  {author} {\bibfnamefont {H.}~\bibnamefont {Hoffmann}}, \bibinfo {author}
+  {\bibfnamefont {H.}~\bibnamefont {Hussmann}}, \bibinfo {author}
+  {\bibfnamefont {M.}~\bibnamefont {Grott}}, \bibinfo {author} {\bibfnamefont
+  {S.}~\bibnamefont {Hempel}}, \bibinfo {author} {\bibfnamefont
+  {U.}~\bibnamefont {Köhler}}, \bibinfo {author} {\bibfnamefont
+  {K.}~\bibnamefont {Krohn}}, \bibinfo {author} {\bibfnamefont
+  {N.}~\bibnamefont {Schmitz}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {Carpenter}}, \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Wieczorek}}, \bibinfo {author} {\bibfnamefont
+  {T.}~\bibnamefont {Spohn}}, \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Robinson}},\ and\ \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {Oberst}},\ }\href
+  {https://doi.org/https://doi.org/10.1016/j.pss.2012.08.019} {\bibfield
+  {journal} {\bibinfo  {journal} {Planetary and Space Science}\ }\textbf
+  {\bibinfo {volume} {74}},\ \bibinfo {pages} {15} (\bibinfo {year} {2012})},\
+  \bibinfo {note} {scientific Preparations For Lunar Exploration}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Gibson}\ and\ \citenamefont
+  {Jolliff}(2011)}]{Gibson2011}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
+  {Gibson}}\ and\ \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
+  {Jolliff}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Lunar
+  and Planetary Science Conference Abstracts}\ }\textbf {\bibinfo {volume}
+  {42}} (\bibinfo {year} {2011})}\BibitemShut {NoStop}%
 \end{thebibliography}%
