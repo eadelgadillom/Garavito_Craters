@@ -233,6 +233,11 @@ INPUT C:\Users\eduar\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\sym
 INPUT C:\Users\eduar\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr6.tfm
 INPUT C:\Users\eduar\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx9.tfm
 INPUT C:\Users\eduar\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri10.tfm
+INPUT C:\Users\eduar\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\eduar\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
+INPUT C:\Users\eduar\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathit.enc
+INPUT C:\Users\eduar\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
+INPUT C:\Users\eduar\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathsy.enc
 INPUT .\Images\Ellipse_region.png
 INPUT .\Images\Ellipse_region.png
 INPUT .\Images\Ellipse_region.png
@@ -243,11 +248,6 @@ INPUT .\Images\Ellipse_region.png
 INPUT .\main.bbl
 INPUT .\main.bbl
 INPUT main.bbl
-INPUT C:\Users\eduar\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Users\eduar\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
-INPUT C:\Users\eduar\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
-INPUT C:\Users\eduar\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathit.enc
-INPUT C:\Users\eduar\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathsy.enc
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out

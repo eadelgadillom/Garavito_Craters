@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{3}%
+\begin{thebibliography}{8}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -50,25 +50,6 @@
 \providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
 \let\auto@bib@innerbib\@empty
 %</preamble>
-\bibitem [{\citenamefont {Sánchez}\ \emph {et~al.}(2025)\citenamefont
-  {Sánchez}, \citenamefont {Chavanz}, \citenamefont {Garzón}, \citenamefont
-  {Vargas}, \citenamefont {Guzmán}, \citenamefont {Mora}, \citenamefont
-  {Portilla}, \citenamefont {Salazar},\ and\ \citenamefont {del
-  Pilar~López}}]{Sanchez2025}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.~H.}\ \bibnamefont
-  {Sánchez}}, \bibinfo {author} {\bibfnamefont {R.~E.~M.}\ \bibnamefont
-  {Chavanz}}, \bibinfo {author} {\bibfnamefont {M.~A.~H.}\ \bibnamefont
-  {Garzón}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Vargas}},
-  \bibinfo {author} {\bibfnamefont {F.~O.}\ \bibnamefont {Guzmán}}, \bibinfo
-  {author} {\bibfnamefont {A.~M.}\ \bibnamefont {Mora}}, \bibinfo {author}
-  {\bibfnamefont {J.~G.}\ \bibnamefont {Portilla}}, \bibinfo {author}
-  {\bibfnamefont {J.~R.~A.}\ \bibnamefont {Salazar}},\ and\ \bibinfo {author}
-  {\bibfnamefont {M.}~\bibnamefont {del Pilar~López}},\ }\href@noop {} {\emph
-  {\bibinfo {title} {Julio Garavito Armero. Una biografía profana e
-  intelectual}}},\ \bibinfo {edition} {1st}\ ed.\ (\bibinfo  {publisher}
-  {Universidad Nacional de Colombia},\ \bibinfo {year} {2025})\BibitemShut
-  {NoStop}%
 \bibitem [{\citenamefont {Jaumann}\ \emph {et~al.}(2012)\citenamefont
   {Jaumann}, \citenamefont {Hiesinger}, \citenamefont {Anand}, \citenamefont
   {Crawford}, \citenamefont {Wagner}, \citenamefont {Sohl}, \citenamefont
@@ -103,6 +84,75 @@
   {journal} {\bibinfo  {journal} {Planetary and Space Science}\ }\textbf
   {\bibinfo {volume} {74}},\ \bibinfo {pages} {15} (\bibinfo {year} {2012})},\
   \bibinfo {note} {scientific Preparations For Lunar Exploration}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Pasckert}\ \emph {et~al.}(2018)\citenamefont
+  {Pasckert}, \citenamefont {Hiesinger},\ and\ \citenamefont {{van der
+  Bogert}}}]{PASCKERT2018538}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~H.}\ \bibnamefont
+  {Pasckert}}, \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
+  {Hiesinger}},\ and\ \bibinfo {author} {\bibfnamefont {C.~H.}\ \bibnamefont
+  {{van der Bogert}}},\ }\href
+  {https://doi.org/https://doi.org/10.1016/j.icarus.2017.07.023} {\bibfield
+  {journal} {\bibinfo  {journal} {Icarus}\ }\textbf {\bibinfo {volume} {299}},\
+  \bibinfo {pages} {538} (\bibinfo {year} {2018})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Taylor}(1972)}]{TAYLOR1972263}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
+  {Taylor}},\ }\href
+  {https://doi.org/https://doi.org/10.1016/0012-821X(72)90200-2} {\bibfield
+  {journal} {\bibinfo  {journal} {Earth and Planetary Science Letters}\
+  }\textbf {\bibinfo {volume} {16}},\ \bibinfo {pages} {263} (\bibinfo {year}
+  {1972})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Albee}(2003)}]{ALBEE2003825}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~L.}\ \bibnamefont
+  {Albee}},\ }in\ \href
+  {https://doi.org/https://doi.org/10.1016/B0-12-227410-5/00390-2} {\emph
+  {\bibinfo {booktitle} {Encyclopedia of Physical Science and Technology (Third
+  Edition)}}},\ \bibinfo {editor} {edited by\ \bibinfo {editor} {\bibfnamefont
+  {R.~A.}\ \bibnamefont {Meyers}}}\ (\bibinfo  {publisher} {Academic Press},\
+  \bibinfo {address} {New York},\ \bibinfo {year} {2003})\ \bibinfo {edition}
+  {third edition}\ ed.,\ pp.\ \bibinfo {pages} {825--837}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Li}\ \emph {et~al.}(2025)\citenamefont {Li},
+  \citenamefont {Moriarty}, \citenamefont {Pieters}, \citenamefont {Klima},\
+  and\ \citenamefont {Dapremont}}]{LI2025116668}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Li}}, \bibinfo {author} {\bibfnamefont {D.~P.}\ \bibnamefont {Moriarty}},
+  \bibinfo {author} {\bibfnamefont {C.~M.}\ \bibnamefont {Pieters}}, \bibinfo
+  {author} {\bibfnamefont {R.~L.}\ \bibnamefont {Klima}},\ and\ \bibinfo
+  {author} {\bibfnamefont {A.~M.}\ \bibnamefont {Dapremont}},\ }\href
+  {https://doi.org/https://doi.org/10.1016/j.icarus.2025.116668} {\bibfield
+  {journal} {\bibinfo  {journal} {Icarus}\ }\textbf {\bibinfo {volume} {440}},\
+  \bibinfo {pages} {116668} (\bibinfo {year} {2025})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Brouwer}\ and\ \citenamefont
+  {Clemence}(1961)}]{book:Brouwer1961}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
+  {Brouwer}}\ and\ \bibinfo {author} {\bibfnamefont {G.~M.}\ \bibnamefont
+  {Clemence}},\ }\href
+  {http://gen.lib.rus.ec/book/index.php?md5=39944e990888c5c11e4ca030cf842902}
+  {\emph {\bibinfo {title} {Methods of Celestial Mechanics}}}\ (\bibinfo {year}
+  {1961})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Sánchez}\ \emph {et~al.}(2025)\citenamefont
+  {Sánchez}, \citenamefont {Chavanz}, \citenamefont {Garzón}, \citenamefont
+  {Vargas}, \citenamefont {Guzmán}, \citenamefont {Mora}, \citenamefont
+  {Portilla}, \citenamefont {Salazar},\ and\ \citenamefont {del
+  Pilar~López}}]{Sanchez2025}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.~H.}\ \bibnamefont
+  {Sánchez}}, \bibinfo {author} {\bibfnamefont {R.~E.~M.}\ \bibnamefont
+  {Chavanz}}, \bibinfo {author} {\bibfnamefont {M.~A.~H.}\ \bibnamefont
+  {Garzón}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Vargas}},
+  \bibinfo {author} {\bibfnamefont {F.~O.}\ \bibnamefont {Guzmán}}, \bibinfo
+  {author} {\bibfnamefont {A.~M.}\ \bibnamefont {Mora}}, \bibinfo {author}
+  {\bibfnamefont {J.~G.}\ \bibnamefont {Portilla}}, \bibinfo {author}
+  {\bibfnamefont {J.~R.~A.}\ \bibnamefont {Salazar}},\ and\ \bibinfo {author}
+  {\bibfnamefont {M.}~\bibnamefont {del Pilar~López}},\ }\href@noop {} {\emph
+  {\bibinfo {title} {Julio Garavito Armero. Una biografía profana e
+  intelectual}}},\ \bibinfo {edition} {1st}\ ed.\ (\bibinfo  {publisher}
+  {Universidad Nacional de Colombia},\ \bibinfo {year} {2025})\BibitemShut
   {NoStop}%
 \bibitem [{\citenamefont {Gibson}\ and\ \citenamefont
   {Jolliff}(2011)}]{Gibson2011}%

@@ -1,15 +1,15 @@
 # Fdb version 4
-["bibtex main"] 1748317822.07801 "main.aux" "main.bbl" "main" 1749355564.57378 0
-  "./mainNotes.bib" 1749355562 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "./ref.bib" 1748317800 4534 79978ba18fdaf477376aad7afef66e98 ""
+["bibtex main"] 1751175173.28136 "main.aux" "main.bbl" "main" 1751175175.29849 0
+  "./mainNotes.bib" 1751175174 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "./ref.bib" 1751175140 12309 35a54a5463f7f3d7c99e7007298f0aad ""
   "C:/Users/eduar/AppData/Local/Programs/MiKTeX/bibtex/bst/revtex/apsrev4-2.bst" 1685674058 69609 e9dea59f0e753ccda3ddc8f5806d846d ""
-  "main.aux" 1749355563 2295 a3b2c67049659c8b34d155688f0094e1 "pdflatex"
+  "main.aux" 1751175174 2831 cd06b6b48cc39f968ed5b0fbf3bd033f "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1749355512.56248 "d:/GitHub/Garavito_Craters/Tesis/Articulo/main.tex" "main.pdf" "main" 1749355564.57448 0
-  "C:/Users/eduar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1749355562 81074 e9df683c7a67b773afe1722d345afa16 ""
+["pdflatex"] 1751175173.54741 "d:/GitHub/Garavito_Craters/Tesis/Articulo/main.tex" "main.pdf" "main" 1751175175.2991 0
+  "C:/Users/eduar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1749356079 81074 e9df683c7a67b773afe1722d345afa16 ""
   "C:/Users/eduar/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1749355489 13159324 c2e0c7af8bfa00543479f23515f48a23 ""
   "C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
   "C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc" 1256929440 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
@@ -140,11 +140,11 @@
   "C:/Users/eduar/AppData/Local/Programs/MiKTeX/tex/latex/translations/translations.sty" 1644048522 44247 2188b95d0ee74e31eca4d316263c58a7 ""
   "C:/Users/eduar/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "Images/Ellipse_region.png" 1748030490 2575 a293ddad4840e89e5741951f4a85c989 ""
-  "d:/GitHub/Garavito_Craters/Tesis/Articulo/main.tex" 1748317817 4729 472479cab0961f59113a47bf7eba892b ""
-  "main.aux" 1749355563 2295 a3b2c67049659c8b34d155688f0094e1 "pdflatex"
-  "main.bbl" 1748317822 6143 6a0985aff54989dbf91ea6b9590bb5a8 "bibtex main"
-  "main.out" 1749355563 1603 3abdccf23c116eb2bb38710cc3db84b7 "pdflatex"
-  "main.tex" 1748317817 4729 472479cab0961f59113a47bf7eba892b ""
+  "d:/GitHub/Garavito_Craters/Tesis/Articulo/main.tex" 1751175170 6664 cf8c163eb2226670693ceaa996ad4c64 ""
+  "main.aux" 1751175174 2831 cd06b6b48cc39f968ed5b0fbf3bd033f "pdflatex"
+  "main.bbl" 1751175173 9219 168ced62ca42a78b17a4d1ea722dcc03 "bibtex main"
+  "main.out" 1751175174 1603 3abdccf23c116eb2bb38710cc3db84b7 "pdflatex"
+  "main.tex" 1751175170 6664 cf8c163eb2226670693ceaa996ad4c64 ""
   (generated)
   "main.aux"
   "main.log"
